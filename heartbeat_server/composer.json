@@ -1,0 +1,13 @@
+{
+    "name": "mcctv/heartbeat",
+    "description": "heart beat server",
+    "license": "ls",
+    "authors": [
+        {
+            "name": "yanghuolong",
+            "email": "yhl27ml@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

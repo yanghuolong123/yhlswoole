@@ -1,0 +1,2365 @@
+[2015-01-30 14:46:15]	INFO	SwooleFramework[#0]. running. on 0.0.0.0:9503
+[2015-01-30 14:46:15]	INFO	SwooleFramework[#1]. running. on 0.0.0.0:9503
+[2015-01-30 14:46:25]	INFO	Event: client[#14@0] connect
+[2015-01-30 14:46:25]	INFO	WebSocket connection #14 is connected
+[2015-01-30 14:46:25]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-01-30 14:46:25]	INFO	[14] opcode=1
+[2015-01-30 14:46:25]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-01-30 14:46:25]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-01-30 14:46:25]	INFO	[14] opcode=1
+[2015-01-30 14:46:25]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-01-30 14:46:25]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-01-30 14:46:25]	INFO	[14] opcode=1
+[2015-01-30 14:46:25]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-01-30 14:46:25]	INFO	CometSesesion #14 no exists. Send failed.
+[2015-01-30 14:47:45]	INFO	SwooleFramework[#0]. running. on 0.0.0.0:9503
+[2015-01-30 14:47:45]	INFO	SwooleFramework[#1]. running. on 0.0.0.0:9503
+[2015-01-30 14:47:51]	INFO	Event: client[#14@0] connect
+[2015-01-30 14:47:51]	INFO	WebSocket connection #14 is connected
+[2015-01-30 14:47:51]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-01-30 14:47:51]	INFO	[14] opcode=1
+[2015-01-30 14:47:51]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-01-30 14:47:51]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-01-30 14:47:51]	INFO	[14] opcode=1
+[2015-01-30 14:47:51]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-01-30 14:47:51]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-01-30 14:47:51]	INFO	[14] opcode=1
+[2015-01-30 14:47:51]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-01-30 14:47:51]	INFO	CometSesesion #14 no exists. Send failed.
+[2015-01-30 14:47:54]	INFO	NewFrame finish. Opcode=1|Length=57
+[2015-01-30 14:47:54]	INFO	[14] opcode=1
+[2015-01-30 14:47:54]	INFO	onMessage #14: {"cmd":"message","from":14,"channal":0,"data":"sdfsdfsd"}
+[2015-01-30 14:49:38]	INFO	Event: client[#15@0] connect
+[2015-01-30 14:49:38]	INFO	WebSocket connection #15 is connected
+[2015-01-30 14:49:38]	INFO	NewFrame finish. Opcode=1|Length=99
+[2015-01-30 14:49:38]	INFO	[15] opcode=1
+[2015-01-30 14:49:38]	INFO	onMessage #15: {"cmd":"login","name":"admin","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=1&size=small"}
+[2015-01-30 14:49:38]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-01-30 14:49:38]	INFO	[15] opcode=1
+[2015-01-30 14:49:38]	INFO	onMessage #15: {"cmd":"getOnline"}
+[2015-01-30 14:49:38]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-01-30 14:49:38]	INFO	[15] opcode=1
+[2015-01-30 14:49:38]	INFO	onMessage #15: {"cmd":"getHistory"}
+[2015-01-30 14:49:38]	INFO	CometSesesion #15 no exists. Send failed.
+[2015-01-30 14:49:44]	INFO	NewFrame finish. Opcode=1|Length=57
+[2015-01-30 14:49:44]	INFO	[15] opcode=1
+[2015-01-30 14:49:44]	INFO	onMessage #15: {"cmd":"message","from":15,"channal":0,"data":"sdfsdfds"}
+[2015-01-30 14:50:27]	INFO	SwooleFramework[#0]. running. on 0.0.0.0:9503
+[2015-01-30 14:50:27]	INFO	SwooleFramework[#1]. running. on 0.0.0.0:9503
+[2015-01-30 14:50:30]	INFO	Event: client[#14@0] connect
+[2015-01-30 14:50:30]	INFO	WebSocket connection #14 is connected
+[2015-01-30 14:50:30]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-01-30 14:50:30]	INFO	[14] opcode=1
+[2015-01-30 14:50:30]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-01-30 14:50:30]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-01-30 14:50:30]	INFO	[14] opcode=1
+[2015-01-30 14:50:30]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-01-30 14:50:30]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-01-30 14:50:30]	INFO	[14] opcode=1
+[2015-01-30 14:50:30]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-01-30 14:50:30]	INFO	CometSesesion #14 no exists. Send failed.
+[2015-01-30 14:50:34]	INFO	NewFrame finish. Opcode=1|Length=51
+[2015-01-30 14:50:34]	INFO	[14] opcode=1
+[2015-01-30 14:50:34]	INFO	onMessage #14: {"cmd":"message","from":14,"channal":0,"data":"#5"}
+[2015-01-30 14:50:36]	INFO	NewFrame finish. Opcode=1|Length=57
+[2015-01-30 14:50:36]	INFO	[14] opcode=1
+[2015-01-30 14:50:36]	INFO	onMessage #14: {"cmd":"message","from":14,"channal":0,"data":"dsfdsfsd"}
+[2015-01-30 14:50:39]	INFO	NewFrame finish. Opcode=1|Length=51
+[2015-01-30 14:50:39]	INFO	[14] opcode=1
+[2015-01-30 14:50:39]	INFO	onMessage #14: {"cmd":"message","from":14,"channal":0,"data":"#4"}
+[2015-01-30 14:50:44]	INFO	Event: client[#15@0] connect
+[2015-01-30 14:50:44]	INFO	WebSocket connection #15 is connected
+[2015-01-30 14:50:44]	INFO	NewFrame finish. Opcode=1|Length=99
+[2015-01-30 14:50:44]	INFO	[15] opcode=1
+[2015-01-30 14:50:44]	INFO	onMessage #15: {"cmd":"login","name":"admin","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=1&size=small"}
+[2015-01-30 14:50:44]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-01-30 14:50:44]	INFO	[15] opcode=1
+[2015-01-30 14:50:44]	INFO	onMessage #15: {"cmd":"getOnline"}
+[2015-01-30 14:50:44]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-01-30 14:50:44]	INFO	[15] opcode=1
+[2015-01-30 14:50:44]	INFO	onMessage #15: {"cmd":"getHistory"}
+[2015-01-30 14:50:44]	INFO	CometSesesion #15 no exists. Send failed.
+[2015-01-30 14:50:48]	INFO	NewFrame finish. Opcode=1|Length=51
+[2015-01-30 14:50:48]	INFO	[15] opcode=1
+[2015-01-30 14:50:48]	INFO	onMessage #15: {"cmd":"message","from":15,"channal":0,"data":"#4"}
+[2015-01-30 15:00:46]	INFO	NewFrame finish. Opcode=8|Length=2
+[2015-01-30 15:00:46]	INFO	[14] opcode=8
+[2015-01-30 15:00:46]	INFO	server close connection[14]. reason: client active close, code=1001, close_code = 1002
+[2015-01-30 15:00:46]	INFO	Event: client[#14@0] close
+[2015-01-30 15:00:50]	INFO	Event: client[#14@0] connect
+[2015-01-30 15:00:50]	INFO	WebSocket connection #14 is connected
+[2015-01-30 15:00:50]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-01-30 15:00:50]	INFO	[14] opcode=1
+[2015-01-30 15:00:50]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-01-30 15:00:50]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-01-30 15:00:50]	INFO	[14] opcode=1
+[2015-01-30 15:00:50]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-01-30 15:00:50]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-01-30 15:00:50]	INFO	[14] opcode=1
+[2015-01-30 15:00:50]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-01-30 15:00:50]	INFO	CometSesesion #14 no exists. Send failed.
+[2015-01-30 15:05:25]	INFO	NewFrame finish. Opcode=1|Length=57
+[2015-01-30 15:05:25]	INFO	[15] opcode=1
+[2015-01-30 15:05:25]	INFO	onMessage #15: {"cmd":"message","from":15,"channal":0,"data":"sdfsdfds"}
+[2015-01-30 15:05:32]	INFO	NewFrame finish. Opcode=8|Length=2
+[2015-01-30 15:05:32]	INFO	[14] opcode=8
+[2015-01-30 15:05:32]	INFO	server close connection[14]. reason: client active close, code=1001, close_code = 1002
+[2015-01-30 15:05:32]	INFO	Event: client[#14@0] close
+[2015-01-30 15:05:34]	INFO	Event: client[#14@0] connect
+[2015-01-30 15:05:34]	INFO	WebSocket connection #14 is connected
+[2015-01-30 15:05:34]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-01-30 15:05:34]	INFO	[14] opcode=1
+[2015-01-30 15:05:34]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-01-30 15:05:34]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-01-30 15:05:34]	INFO	[14] opcode=1
+[2015-01-30 15:05:34]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-01-30 15:05:34]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-01-30 15:05:34]	INFO	[14] opcode=1
+[2015-01-30 15:05:34]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-01-30 15:05:34]	INFO	CometSesesion #14 no exists. Send failed.
+[2015-01-30 15:05:37]	INFO	NewFrame finish. Opcode=8|Length=2
+[2015-01-30 15:05:37]	INFO	[15] opcode=8
+[2015-01-30 15:05:37]	INFO	server close connection[15]. reason: client active close, code=1001, close_code = 1002
+[2015-01-30 15:05:37]	INFO	Event: client[#15@0] close
+[2015-01-30 15:05:37]	INFO	Event: client[#15@0] connect
+[2015-01-30 15:05:37]	INFO	WebSocket connection #15 is connected
+[2015-01-30 15:05:37]	INFO	NewFrame finish. Opcode=1|Length=99
+[2015-01-30 15:05:37]	INFO	[15] opcode=1
+[2015-01-30 15:05:37]	INFO	onMessage #15: {"cmd":"login","name":"admin","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=1&size=small"}
+[2015-01-30 15:05:37]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-01-30 15:05:37]	INFO	[15] opcode=1
+[2015-01-30 15:05:37]	INFO	onMessage #15: {"cmd":"getOnline"}
+[2015-01-30 15:05:37]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-01-30 15:05:37]	INFO	[15] opcode=1
+[2015-01-30 15:05:37]	INFO	onMessage #15: {"cmd":"getHistory"}
+[2015-01-30 15:05:37]	INFO	CometSesesion #15 no exists. Send failed.
+[2015-01-30 15:05:41]	INFO	NewFrame finish. Opcode=8|Length=2
+[2015-01-30 15:05:41]	INFO	[15] opcode=8
+[2015-01-30 15:05:41]	INFO	server close connection[15]. reason: client active close, code=1001, close_code = 1002
+[2015-01-30 15:05:41]	INFO	Event: client[#15@0] close
+[2015-01-30 15:05:41]	INFO	Event: client[#15@0] connect
+[2015-01-30 15:05:41]	INFO	WebSocket connection #15 is connected
+[2015-01-30 15:05:41]	INFO	NewFrame finish. Opcode=1|Length=99
+[2015-01-30 15:05:41]	INFO	[15] opcode=1
+[2015-01-30 15:05:41]	INFO	onMessage #15: {"cmd":"login","name":"admin","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=1&size=small"}
+[2015-01-30 15:05:41]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-01-30 15:05:41]	INFO	[15] opcode=1
+[2015-01-30 15:05:41]	INFO	onMessage #15: {"cmd":"getOnline"}
+[2015-01-30 15:05:41]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-01-30 15:05:41]	INFO	[15] opcode=1
+[2015-01-30 15:05:41]	INFO	onMessage #15: {"cmd":"getHistory"}
+[2015-01-30 15:05:41]	INFO	CometSesesion #15 no exists. Send failed.
+[2015-01-30 15:05:42]	INFO	NewFrame finish. Opcode=8|Length=2
+[2015-01-30 15:05:42]	INFO	[15] opcode=8
+[2015-01-30 15:05:42]	INFO	server close connection[15]. reason: client active close, code=1001, close_code = 1002
+[2015-01-30 15:05:42]	INFO	Event: client[#15@0] close
+[2015-01-30 15:05:42]	INFO	Event: client[#15@0] connect
+[2015-01-30 15:05:42]	INFO	WebSocket connection #15 is connected
+[2015-01-30 15:05:42]	INFO	NewFrame finish. Opcode=1|Length=99
+[2015-01-30 15:05:42]	INFO	[15] opcode=1
+[2015-01-30 15:05:42]	INFO	onMessage #15: {"cmd":"login","name":"admin","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=1&size=small"}
+[2015-01-30 15:05:42]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-01-30 15:05:42]	INFO	[15] opcode=1
+[2015-01-30 15:05:42]	INFO	onMessage #15: {"cmd":"getOnline"}
+[2015-01-30 15:05:42]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-01-30 15:05:42]	INFO	[15] opcode=1
+[2015-01-30 15:05:42]	INFO	onMessage #15: {"cmd":"getHistory"}
+[2015-01-30 15:05:42]	INFO	CometSesesion #15 no exists. Send failed.
+[2015-01-30 15:05:51]	INFO	NewFrame finish. Opcode=1|Length=59
+[2015-01-30 15:05:51]	INFO	[15] opcode=1
+[2015-01-30 15:05:51]	INFO	onMessage #15: {"cmd":"message","from":15,"channal":0,"data":"sdfaasdfsd"}
+[2015-01-30 15:05:58]	INFO	NewFrame finish. Opcode=8|Length=2
+[2015-01-30 15:05:58]	INFO	[14] opcode=8
+[2015-01-30 15:05:58]	INFO	server close connection[14]. reason: client active close, code=1001, close_code = 1002
+[2015-01-30 15:05:58]	INFO	Event: client[#14@0] close
+[2015-01-30 15:06:10]	INFO	NewFrame finish. Opcode=8|Length=2
+[2015-01-30 15:06:10]	INFO	[15] opcode=8
+[2015-01-30 15:06:10]	INFO	server close connection[15]. reason: client active close, code=1001, close_code = 1002
+[2015-01-30 15:06:10]	INFO	Event: client[#15@0] close
+[2015-01-30 15:06:11]	INFO	Event: client[#14@0] connect
+[2015-01-30 15:06:11]	INFO	WebSocket connection #14 is connected
+[2015-01-30 15:06:11]	INFO	NewFrame finish. Opcode=1|Length=99
+[2015-01-30 15:06:11]	INFO	[14] opcode=1
+[2015-01-30 15:06:11]	INFO	onMessage #14: {"cmd":"login","name":"admin","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=1&size=small"}
+[2015-01-30 15:06:11]	INFO	CometSesesion #15 no exists. Send failed.
+[2015-01-30 15:06:11]	INFO	CometSesesion #15 no exists. Send failed.
+[2015-01-30 15:06:11]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-01-30 15:06:11]	INFO	[14] opcode=1
+[2015-01-30 15:06:11]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-01-30 15:06:11]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-01-30 15:06:11]	INFO	[14] opcode=1
+[2015-01-30 15:06:11]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-01-30 15:06:11]	INFO	CometSesesion #14 no exists. Send failed.
+[2015-01-30 15:06:13]	INFO	NewFrame finish. Opcode=8|Length=2
+[2015-01-30 15:06:13]	INFO	[14] opcode=8
+[2015-01-30 15:06:13]	INFO	server close connection[14]. reason: client active close, code=1001, close_code = 1002
+[2015-01-30 15:06:13]	INFO	Event: client[#14@0] close
+[2015-01-30 15:06:14]	INFO	Event: client[#14@0] connect
+[2015-01-30 15:06:14]	INFO	WebSocket connection #14 is connected
+[2015-01-30 15:06:14]	INFO	NewFrame finish. Opcode=1|Length=99
+[2015-01-30 15:06:14]	INFO	[14] opcode=1
+[2015-01-30 15:06:14]	INFO	onMessage #14: {"cmd":"login","name":"admin","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=1&size=small"}
+[2015-01-30 15:06:14]	INFO	CometSesesion #15 no exists. Send failed.
+[2015-01-30 15:06:14]	INFO	CometSesesion #15 no exists. Send failed.
+[2015-01-30 15:06:14]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-01-30 15:06:14]	INFO	[14] opcode=1
+[2015-01-30 15:06:14]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-01-30 15:06:14]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-01-30 15:06:14]	INFO	[14] opcode=1
+[2015-01-30 15:06:14]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-01-30 15:06:14]	INFO	CometSesesion #14 no exists. Send failed.
+[2015-01-30 15:06:16]	INFO	NewFrame finish. Opcode=1|Length=57
+[2015-01-30 15:06:16]	INFO	[14] opcode=1
+[2015-01-30 15:06:16]	INFO	onMessage #14: {"cmd":"message","from":14,"channal":0,"data":"asdasdas"}
+[2015-01-30 15:06:16]	INFO	CometSesesion #15 no exists. Send failed.
+[2015-01-30 15:06:20]	INFO	Event: client[#15@0] connect
+[2015-01-30 15:06:20]	INFO	WebSocket connection #15 is connected
+[2015-01-30 15:06:20]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-01-30 15:06:20]	INFO	[15] opcode=1
+[2015-01-30 15:06:20]	INFO	onMessage #15: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-01-30 15:06:20]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-01-30 15:06:20]	INFO	[15] opcode=1
+[2015-01-30 15:06:20]	INFO	onMessage #15: {"cmd":"getOnline"}
+[2015-01-30 15:06:20]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-01-30 15:06:20]	INFO	[15] opcode=1
+[2015-01-30 15:06:20]	INFO	onMessage #15: {"cmd":"getHistory"}
+[2015-01-30 15:06:20]	INFO	CometSesesion #15 no exists. Send failed.
+[2015-01-30 15:06:24]	INFO	NewFrame finish. Opcode=1|Length=54
+[2015-01-30 15:06:24]	INFO	[14] opcode=1
+[2015-01-30 15:06:24]	INFO	onMessage #14: {"cmd":"message","from":14,"channal":0,"data":"sdfsd"}
+[2015-01-30 15:07:06]	INFO	NewFrame finish. Opcode=1|Length=57
+[2015-01-30 15:07:06]	INFO	[14] opcode=1
+[2015-01-30 15:07:06]	INFO	onMessage #14: {"cmd":"message","from":14,"channal":0,"data":"sdfsdfsd"}
+[2015-01-30 15:07:18]	INFO	SwooleFramework[#0]. running. on 0.0.0.0:9503
+[2015-01-30 15:07:18]	INFO	SwooleFramework[#1]. running. on 0.0.0.0:9503
+[2015-01-30 15:07:22]	INFO	Event: client[#14@0] connect
+[2015-01-30 15:07:22]	INFO	WebSocket connection #14 is connected
+[2015-01-30 15:07:22]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-01-30 15:07:22]	INFO	[14] opcode=1
+[2015-01-30 15:07:22]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-01-30 15:07:22]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-01-30 15:07:22]	INFO	[14] opcode=1
+[2015-01-30 15:07:22]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-01-30 15:07:22]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-01-30 15:07:22]	INFO	[14] opcode=1
+[2015-01-30 15:07:22]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-01-30 15:07:22]	INFO	CometSesesion #14 no exists. Send failed.
+[2015-01-30 15:07:25]	INFO	Event: client[#15@0] connect
+[2015-01-30 15:07:25]	INFO	WebSocket connection #15 is connected
+[2015-01-30 15:07:25]	INFO	NewFrame finish. Opcode=1|Length=99
+[2015-01-30 15:07:25]	INFO	[15] opcode=1
+[2015-01-30 15:07:25]	INFO	onMessage #15: {"cmd":"login","name":"admin","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=1&size=small"}
+[2015-01-30 15:07:25]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-01-30 15:07:25]	INFO	[15] opcode=1
+[2015-01-30 15:07:25]	INFO	onMessage #15: {"cmd":"getOnline"}
+[2015-01-30 15:07:25]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-01-30 15:07:25]	INFO	[15] opcode=1
+[2015-01-30 15:07:25]	INFO	onMessage #15: {"cmd":"getHistory"}
+[2015-01-30 15:07:25]	INFO	CometSesesion #15 no exists. Send failed.
+[2015-01-30 15:07:31]	INFO	NewFrame finish. Opcode=1|Length=56
+[2015-01-30 15:07:31]	INFO	[15] opcode=1
+[2015-01-30 15:07:31]	INFO	onMessage #15: {"cmd":"message","from":15,"channal":0,"data":"sdfsdfd"}
+[2015-01-30 15:07:47]	INFO	NewFrame finish. Opcode=1|Length=57
+[2015-01-30 15:07:47]	INFO	[15] opcode=1
+[2015-01-30 15:07:47]	INFO	onMessage #15: {"cmd":"message","from":15,"channal":0,"data":"sdfsdfds"}
+[2015-01-30 15:08:08]	INFO	NewFrame finish. Opcode=1|Length=57
+[2015-01-30 15:08:08]	INFO	[15] opcode=1
+[2015-01-30 15:08:08]	INFO	onMessage #15: {"cmd":"message","from":15,"channal":0,"data":"sdfsdfds"}
+[2015-01-30 15:08:16]	INFO	SwooleFramework[#0]. running. on 0.0.0.0:9503
+[2015-01-30 15:08:16]	INFO	SwooleFramework[#1]. running. on 0.0.0.0:9503
+[2015-01-30 15:08:19]	INFO	Event: client[#14@0] connect
+[2015-01-30 15:08:19]	INFO	WebSocket connection #14 is connected
+[2015-01-30 15:08:19]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-01-30 15:08:19]	INFO	[14] opcode=1
+[2015-01-30 15:08:19]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-01-30 15:08:19]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-01-30 15:08:19]	INFO	[14] opcode=1
+[2015-01-30 15:08:19]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-01-30 15:08:19]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-01-30 15:08:19]	INFO	[14] opcode=1
+[2015-01-30 15:08:19]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-01-30 15:08:19]	INFO	CometSesesion #14 no exists. Send failed.
+[2015-01-30 15:08:23]	INFO	Event: client[#15@0] connect
+[2015-01-30 15:08:23]	INFO	WebSocket connection #15 is connected
+[2015-01-30 15:08:23]	INFO	NewFrame finish. Opcode=1|Length=99
+[2015-01-30 15:08:23]	INFO	[15] opcode=1
+[2015-01-30 15:08:23]	INFO	onMessage #15: {"cmd":"login","name":"admin","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=1&size=small"}
+[2015-01-30 15:08:23]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-01-30 15:08:23]	INFO	[15] opcode=1
+[2015-01-30 15:08:23]	INFO	onMessage #15: {"cmd":"getOnline"}
+[2015-01-30 15:08:23]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-01-30 15:08:23]	INFO	[15] opcode=1
+[2015-01-30 15:08:23]	INFO	onMessage #15: {"cmd":"getHistory"}
+[2015-01-30 15:08:23]	INFO	CometSesesion #15 no exists. Send failed.
+[2015-01-30 15:08:29]	INFO	NewFrame finish. Opcode=1|Length=60
+[2015-01-30 15:08:29]	INFO	[15] opcode=1
+[2015-01-30 15:08:29]	INFO	onMessage #15: {"cmd":"message","from":15,"channal":0,"data":"sdfsdfsdfds"}
+[2015-01-30 15:08:46]	INFO	NewFrame finish. Opcode=8|Length=2
+[2015-01-30 15:08:46]	INFO	[14] opcode=8
+[2015-01-30 15:08:46]	INFO	server close connection[14]. reason: client active close, code=1001, close_code = 1002
+[2015-01-30 15:08:46]	INFO	Event: client[#14@0] close
+[2015-01-30 15:08:48]	INFO	Event: client[#14@0] connect
+[2015-01-30 15:08:48]	INFO	WebSocket connection #14 is connected
+[2015-01-30 15:08:48]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-01-30 15:08:48]	INFO	[14] opcode=1
+[2015-01-30 15:08:48]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-01-30 15:08:48]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-01-30 15:08:48]	INFO	[14] opcode=1
+[2015-01-30 15:08:48]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-01-30 15:08:48]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-01-30 15:08:48]	INFO	[14] opcode=1
+[2015-01-30 15:08:48]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-01-30 15:08:48]	INFO	CometSesesion #14 no exists. Send failed.
+[2015-01-30 15:08:55]	INFO	NewFrame finish. Opcode=8|Length=2
+[2015-01-30 15:08:55]	INFO	[14] opcode=8
+[2015-01-30 15:08:55]	INFO	server close connection[14]. reason: client active close, code=1001, close_code = 1002
+[2015-01-30 15:08:55]	INFO	Event: client[#14@0] close
+[2015-01-30 15:08:56]	INFO	Event: client[#14@0] connect
+[2015-01-30 15:08:56]	INFO	WebSocket connection #14 is connected
+[2015-01-30 15:08:56]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-01-30 15:08:56]	INFO	[14] opcode=1
+[2015-01-30 15:08:56]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-01-30 15:08:56]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-01-30 15:08:56]	INFO	[14] opcode=1
+[2015-01-30 15:08:56]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-01-30 15:08:56]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-01-30 15:08:56]	INFO	[14] opcode=1
+[2015-01-30 15:08:56]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-01-30 15:08:56]	INFO	CometSesesion #14 no exists. Send failed.
+[2015-01-30 15:09:45]	INFO	SwooleFramework[#0]. running. on 0.0.0.0:9503
+[2015-01-30 15:09:45]	INFO	SwooleFramework[#1]. running. on 0.0.0.0:9503
+[2015-01-30 15:09:48]	INFO	Event: client[#14@0] connect
+[2015-01-30 15:09:48]	INFO	WebSocket connection #14 is connected
+[2015-01-30 15:09:48]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-01-30 15:09:48]	INFO	[14] opcode=1
+[2015-01-30 15:09:48]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-01-30 15:09:48]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-01-30 15:09:48]	INFO	[14] opcode=1
+[2015-01-30 15:09:48]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-01-30 15:09:48]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-01-30 15:09:48]	INFO	[14] opcode=1
+[2015-01-30 15:09:48]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-01-30 15:09:48]	INFO	CometSesesion #14 no exists. Send failed.
+[2015-01-30 15:10:56]	INFO	NewFrame finish. Opcode=8|Length=2
+[2015-01-30 15:10:56]	INFO	[14] opcode=8
+[2015-01-30 15:10:56]	INFO	server close connection[14]. reason: client active close, code=1001, close_code = 1002
+[2015-01-30 15:10:56]	INFO	Event: client[#14@0] close
+[2015-01-30 15:11:22]	INFO	Event: client[#14@0] connect
+[2015-01-30 15:11:22]	INFO	WebSocket connection #14 is connected
+[2015-01-30 15:11:22]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-01-30 15:11:22]	INFO	[14] opcode=1
+[2015-01-30 15:11:22]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-01-30 15:11:22]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-01-30 15:11:22]	INFO	[14] opcode=1
+[2015-01-30 15:11:22]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-01-30 15:11:22]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-01-30 15:11:22]	INFO	[14] opcode=1
+[2015-01-30 15:11:22]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-01-30 15:11:22]	INFO	CometSesesion #14 no exists. Send failed.
+[2015-01-30 15:13:10]	INFO	NewFrame finish. Opcode=8|Length=2
+[2015-01-30 15:13:10]	INFO	[14] opcode=8
+[2015-01-30 15:13:10]	INFO	server close connection[14]. reason: client active close, code=1001, close_code = 1002
+[2015-01-30 15:13:10]	INFO	Event: client[#14@0] close
+[2015-01-30 15:13:12]	INFO	Event: client[#14@0] connect
+[2015-01-30 15:13:12]	INFO	WebSocket connection #14 is connected
+[2015-01-30 15:13:12]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-01-30 15:13:12]	INFO	[14] opcode=1
+[2015-01-30 15:13:12]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-01-30 15:13:12]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-01-30 15:13:12]	INFO	[14] opcode=1
+[2015-01-30 15:13:12]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-01-30 15:13:12]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-01-30 15:13:12]	INFO	[14] opcode=1
+[2015-01-30 15:13:12]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-01-30 15:13:12]	INFO	CometSesesion #14 no exists. Send failed.
+[2015-01-30 15:13:22]	INFO	Event: client[#15@0] connect
+[2015-01-30 15:13:22]	INFO	WebSocket connection #15 is connected
+[2015-01-30 15:13:22]	INFO	NewFrame finish. Opcode=1|Length=99
+[2015-01-30 15:13:22]	INFO	[15] opcode=1
+[2015-01-30 15:13:22]	INFO	onMessage #15: {"cmd":"login","name":"admin","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=1&size=small"}
+[2015-01-30 15:13:22]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-01-30 15:13:22]	INFO	[15] opcode=1
+[2015-01-30 15:13:22]	INFO	onMessage #15: {"cmd":"getOnline"}
+[2015-01-30 15:13:22]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-01-30 15:13:22]	INFO	[15] opcode=1
+[2015-01-30 15:13:22]	INFO	onMessage #15: {"cmd":"getHistory"}
+[2015-01-30 15:13:22]	INFO	CometSesesion #15 no exists. Send failed.
+[2015-01-30 15:13:24]	INFO	NewFrame finish. Opcode=1|Length=57
+[2015-01-30 15:13:24]	INFO	[15] opcode=1
+[2015-01-30 15:13:24]	INFO	onMessage #15: {"cmd":"message","from":15,"channal":0,"data":"asdasdsa"}
+[2015-01-30 15:14:06]	INFO	NewFrame finish. Opcode=8|Length=2
+[2015-01-30 15:14:06]	INFO	[14] opcode=8
+[2015-01-30 15:14:06]	INFO	server close connection[14]. reason: client active close, code=1001, close_code = 1002
+[2015-01-30 15:14:06]	INFO	Event: client[#14@0] close
+[2015-01-30 15:14:08]	INFO	Event: client[#14@0] connect
+[2015-01-30 15:14:08]	INFO	WebSocket connection #14 is connected
+[2015-01-30 15:14:08]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-01-30 15:14:08]	INFO	[14] opcode=1
+[2015-01-30 15:14:08]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-01-30 15:14:08]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-01-30 15:14:08]	INFO	[14] opcode=1
+[2015-01-30 15:14:08]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-01-30 15:14:08]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-01-30 15:14:08]	INFO	[14] opcode=1
+[2015-01-30 15:14:08]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-01-30 15:14:08]	INFO	CometSesesion #14 no exists. Send failed.
+[2015-01-30 15:24:42]	INFO	NewFrame finish. Opcode=8|Length=2
+[2015-01-30 15:24:42]	INFO	[14] opcode=8
+[2015-01-30 15:24:42]	INFO	server close connection[14]. reason: client active close, code=1001, close_code = 1002
+[2015-01-30 15:24:42]	INFO	Event: client[#14@0] close
+[2015-01-30 15:24:44]	INFO	Event: client[#14@0] connect
+[2015-01-30 15:24:44]	INFO	WebSocket connection #14 is connected
+[2015-01-30 15:24:44]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-01-30 15:24:44]	INFO	[14] opcode=1
+[2015-01-30 15:24:44]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-01-30 15:24:44]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-01-30 15:24:44]	INFO	[14] opcode=1
+[2015-01-30 15:24:44]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-01-30 15:24:44]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-01-30 15:24:44]	INFO	[14] opcode=1
+[2015-01-30 15:24:44]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-01-30 15:24:44]	INFO	CometSesesion #14 no exists. Send failed.
+[2015-01-30 15:24:52]	INFO	NewFrame finish. Opcode=8|Length=2
+[2015-01-30 15:24:52]	INFO	[15] opcode=8
+[2015-01-30 15:24:52]	INFO	server close connection[15]. reason: client active close, code=1001, close_code = 1002
+[2015-01-30 15:24:52]	INFO	Event: client[#15@0] close
+[2015-01-30 15:24:52]	INFO	Event: client[#15@0] connect
+[2015-01-30 15:24:52]	INFO	WebSocket connection #15 is connected
+[2015-01-30 15:24:52]	INFO	NewFrame finish. Opcode=1|Length=99
+[2015-01-30 15:24:52]	INFO	[15] opcode=1
+[2015-01-30 15:24:52]	INFO	onMessage #15: {"cmd":"login","name":"admin","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=1&size=small"}
+[2015-01-30 15:24:52]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-01-30 15:24:52]	INFO	[15] opcode=1
+[2015-01-30 15:24:52]	INFO	onMessage #15: {"cmd":"getOnline"}
+[2015-01-30 15:24:52]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-01-30 15:24:52]	INFO	[15] opcode=1
+[2015-01-30 15:24:52]	INFO	onMessage #15: {"cmd":"getHistory"}
+[2015-01-30 15:24:52]	INFO	CometSesesion #15 no exists. Send failed.
+[2015-01-30 15:24:55]	INFO	NewFrame finish. Opcode=8|Length=2
+[2015-01-30 15:24:55]	INFO	[15] opcode=8
+[2015-01-30 15:24:55]	INFO	server close connection[15]. reason: client active close, code=1001, close_code = 1002
+[2015-01-30 15:24:55]	INFO	Event: client[#15@0] close
+[2015-01-30 15:24:55]	INFO	Event: client[#15@0] connect
+[2015-01-30 15:24:55]	INFO	WebSocket connection #15 is connected
+[2015-01-30 15:24:55]	INFO	NewFrame finish. Opcode=1|Length=99
+[2015-01-30 15:24:55]	INFO	[15] opcode=1
+[2015-01-30 15:24:55]	INFO	onMessage #15: {"cmd":"login","name":"admin","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=1&size=small"}
+[2015-01-30 15:24:55]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-01-30 15:24:55]	INFO	[15] opcode=1
+[2015-01-30 15:24:55]	INFO	onMessage #15: {"cmd":"getOnline"}
+[2015-01-30 15:24:55]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-01-30 15:24:55]	INFO	[15] opcode=1
+[2015-01-30 15:24:55]	INFO	onMessage #15: {"cmd":"getHistory"}
+[2015-01-30 15:24:55]	INFO	CometSesesion #15 no exists. Send failed.
+[2015-01-30 15:49:12]	INFO	NewFrame finish. Opcode=8|Length=2
+[2015-01-30 15:49:12]	INFO	[14] opcode=8
+[2015-01-30 15:49:12]	INFO	server close connection[14]. reason: client active close, code=1001, close_code = 1002
+[2015-01-30 15:49:12]	INFO	Event: client[#14@0] close
+[2015-01-30 15:49:14]	INFO	Event: client[#14@0] connect
+[2015-01-30 15:49:14]	INFO	WebSocket connection #14 is connected
+[2015-01-30 15:49:14]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-01-30 15:49:14]	INFO	[14] opcode=1
+[2015-01-30 15:49:14]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-01-30 15:49:14]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-01-30 15:49:14]	INFO	[14] opcode=1
+[2015-01-30 15:49:14]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-01-30 15:49:14]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-01-30 15:49:14]	INFO	[14] opcode=1
+[2015-01-30 15:49:14]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-01-30 15:49:14]	INFO	CometSesesion #14 no exists. Send failed.
+[2015-01-30 16:32:59]	INFO	NewFrame finish. Opcode=8|Length=2
+[2015-01-30 16:32:59]	INFO	[14] opcode=8
+[2015-01-30 16:32:59]	INFO	server close connection[14]. reason: client active close, code=1001, close_code = 1002
+[2015-01-30 16:32:59]	INFO	Event: client[#14@0] close
+[2015-01-30 16:33:01]	INFO	Event: client[#14@0] connect
+[2015-01-30 16:33:01]	INFO	WebSocket connection #14 is connected
+[2015-01-30 16:33:01]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-01-30 16:33:01]	INFO	[14] opcode=1
+[2015-01-30 16:33:01]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-01-30 16:33:01]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-01-30 16:33:01]	INFO	[14] opcode=1
+[2015-01-30 16:33:01]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-01-30 16:33:01]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-01-30 16:33:01]	INFO	[14] opcode=1
+[2015-01-30 16:33:01]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-01-30 16:33:01]	INFO	CometSesesion #14 no exists. Send failed.
+[2015-01-30 16:33:04]	INFO	NewFrame finish. Opcode=8|Length=2
+[2015-01-30 16:33:04]	INFO	[15] opcode=8
+[2015-01-30 16:33:04]	INFO	server close connection[15]. reason: client active close, code=1001, close_code = 1002
+[2015-01-30 16:33:14]	INFO	Event: client[#15@0] connect
+[2015-01-30 16:33:14]	INFO	NewFrame finish. Opcode=7|Length=69
+[2015-01-30 16:33:14]	INFO	[15] opcode=7
+[2015-01-30 16:33:14]	INFO	server close connection[15]. reason: unkown websocket opcode[7], close_code = 1002
+[2015-01-30 16:33:14]	INFO	Event: client[#15@0] close
+[2015-01-30 16:33:17]	INFO	Event: client[#15@0] connect
+[2015-01-30 16:33:17]	INFO	WebSocket connection #15 is connected
+[2015-01-30 16:33:17]	INFO	NewFrame finish. Opcode=1|Length=99
+[2015-01-30 16:33:17]	INFO	[15] opcode=1
+[2015-01-30 16:33:17]	INFO	onMessage #15: {"cmd":"login","name":"admin","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=1&size=small"}
+[2015-01-30 16:33:17]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-01-30 16:33:17]	INFO	[15] opcode=1
+[2015-01-30 16:33:17]	INFO	onMessage #15: {"cmd":"getOnline"}
+[2015-01-30 16:33:17]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-01-30 16:33:17]	INFO	[15] opcode=1
+[2015-01-30 16:33:17]	INFO	onMessage #15: {"cmd":"getHistory"}
+[2015-01-30 16:33:17]	INFO	CometSesesion #15 no exists. Send failed.
+[2015-01-30 16:37:33]	INFO	SwooleFramework[#1]. running. on 0.0.0.0:9503
+[2015-01-30 16:37:33]	INFO	SwooleFramework[#0]. running. on 0.0.0.0:9503
+[2015-01-30 16:37:37]	INFO	Event: client[#14@0] connect
+[2015-01-30 16:37:37]	INFO	WebSocket connection #14 is connected
+[2015-01-30 16:37:37]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-01-30 16:37:37]	INFO	[14] opcode=1
+[2015-01-30 16:37:37]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-01-30 16:37:37]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-01-30 16:37:37]	INFO	[14] opcode=1
+[2015-01-30 16:37:37]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-01-30 16:37:37]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-01-30 16:37:37]	INFO	[14] opcode=1
+[2015-01-30 16:37:37]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-01-30 16:37:37]	INFO	CometSesesion #14 no exists. Send failed.
+[2015-01-30 16:37:41]	INFO	Event: client[#15@0] connect
+[2015-01-30 16:37:41]	INFO	WebSocket connection #15 is connected
+[2015-01-30 16:37:41]	INFO	NewFrame finish. Opcode=1|Length=99
+[2015-01-30 16:37:41]	INFO	[15] opcode=1
+[2015-01-30 16:37:41]	INFO	onMessage #15: {"cmd":"login","name":"admin","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=1&size=small"}
+[2015-01-30 16:37:41]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-01-30 16:37:41]	INFO	[15] opcode=1
+[2015-01-30 16:37:41]	INFO	onMessage #15: {"cmd":"getOnline"}
+[2015-01-30 16:37:41]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-01-30 16:37:41]	INFO	[15] opcode=1
+[2015-01-30 16:37:41]	INFO	onMessage #15: {"cmd":"getHistory"}
+[2015-01-30 16:37:41]	INFO	CometSesesion #15 no exists. Send failed.
+[2015-01-30 16:37:50]	INFO	NewFrame finish. Opcode=8|Length=2
+[2015-01-30 16:37:50]	INFO	[15] opcode=8
+[2015-01-30 16:37:50]	INFO	server close connection[15]. reason: client active close, code=1001, close_code = 1002
+[2015-01-30 16:37:50]	INFO	Event: client[#15@0] close
+[2015-01-30 17:02:08]	INFO	NewFrame finish. Opcode=8|Length=2
+[2015-01-30 17:02:08]	INFO	[14] opcode=8
+[2015-01-30 17:02:08]	INFO	server close connection[14]. reason: client active close, code=1001, close_code = 1002
+[2015-01-30 17:02:08]	INFO	Event: client[#14@0] close
+[2015-01-30 17:57:57]	INFO	SwooleFramework shutdown
+[2015-01-30 17:57:57]	INFO	SwooleFramework shutdown
+[2015-02-05 09:24:53]	INFO	SwooleFramework[#1]. running. on 0.0.0.0:9503
+[2015-02-05 09:24:53]	INFO	SwooleFramework[#0]. running. on 0.0.0.0:9503
+[2015-02-05 09:50:45]	INFO	SwooleFramework[#0]. running. on 0.0.0.0:9503
+[2015-02-05 09:50:45]	INFO	SwooleFramework[#1]. running. on 0.0.0.0:9503
+[2015-02-05 09:54:33]	INFO	SwooleFramework[#0]. running. on 0.0.0.0:9503
+[2015-02-05 09:54:33]	INFO	SwooleFramework[#1]. running. on 0.0.0.0:9503
+[2015-02-05 09:57:12]	INFO	Event: client[#14@0] connect
+[2015-02-05 09:57:12]	INFO	WebSocket connection #14 is connected
+[2015-02-05 09:57:12]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 09:57:12]	INFO	[14] opcode=1
+[2015-02-05 09:57:12]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 09:57:12]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 09:57:12]	INFO	[14] opcode=1
+[2015-02-05 09:57:12]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 09:57:12]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 09:57:12]	INFO	[14] opcode=1
+[2015-02-05 09:57:12]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 09:57:12]	INFO	CometSesesion #14 no exists. Send failed.
+[2015-02-05 09:57:18]	INFO	NewFrame finish. Opcode=1|Length=54
+[2015-02-05 09:57:18]	INFO	[14] opcode=1
+[2015-02-05 09:57:18]	INFO	onMessage #14: {"cmd":"message","from":14,"channal":0,"data":"dsdsd"}
+[2015-02-05 09:57:20]	INFO	NewFrame finish. Opcode=1|Length=55
+[2015-02-05 09:57:20]	INFO	[14] opcode=1
+[2015-02-05 09:57:20]	INFO	onMessage #14: {"cmd":"message","from":14,"channal":0,"data":"dsdsds"}
+[2015-02-05 11:02:03]	INFO	SwooleFramework[#0]. running. on 0.0.0.0:9503
+[2015-02-05 11:02:03]	INFO	SwooleFramework[#1]. running. on 0.0.0.0:9503
+[2015-02-05 11:03:02]	INFO	WebSocket connection #14 is connected
+[2015-02-05 11:03:02]	INFO	Event: client[#14@0] connect
+[2015-02-05 11:03:02]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 11:03:02]	INFO	[14] opcode=1
+[2015-02-05 11:03:02]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 11:03:02]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 11:03:02]	INFO	[14] opcode=1
+[2015-02-05 11:03:02]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 11:03:02]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 11:03:02]	INFO	[14] opcode=1
+[2015-02-05 11:03:02]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 11:03:02]	INFO	CometSesesion #14 no exists. Send failed.
+[2015-02-05 11:03:06]	INFO	NewFrame finish. Opcode=1|Length=57
+[2015-02-05 11:03:06]	INFO	[14] opcode=1
+[2015-02-05 11:03:06]	INFO	onMessage #14: {"cmd":"message","from":14,"channal":0,"data":"sdafsdfd"}
+[2015-02-05 11:03:11]	INFO	NewFrame finish. Opcode=8|Length=2
+[2015-02-05 11:03:11]	INFO	[14] opcode=8
+[2015-02-05 11:03:11]	INFO	server close connection[14]. reason: client active close, code=1001, close_code = 1002
+[2015-02-05 11:03:11]	INFO	Event: client[#14@0] close
+[2015-02-05 11:03:13]	INFO	Event: client[#14@0] connect
+[2015-02-05 11:03:13]	INFO	WebSocket connection #14 is connected
+[2015-02-05 11:03:14]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 11:03:14]	INFO	[14] opcode=1
+[2015-02-05 11:03:14]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 11:03:14]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 11:03:14]	INFO	[14] opcode=1
+[2015-02-05 11:03:14]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 11:03:14]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 11:03:14]	INFO	[14] opcode=1
+[2015-02-05 11:03:14]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 11:03:14]	INFO	CometSesesion #14 no exists. Send failed.
+[2015-02-05 11:08:16]	INFO	SwooleFramework[#1]. running. on 0.0.0.0:9503
+[2015-02-05 11:08:16]	INFO	SwooleFramework[#0]. running. on 0.0.0.0:9503
+[2015-02-05 11:08:19]	INFO	Event: client[#14@0] connect
+[2015-02-05 11:08:19]	INFO	WebSocket connection #14 is connected
+[2015-02-05 11:08:19]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 11:08:19]	INFO	[14] opcode=1
+[2015-02-05 11:08:19]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 11:08:19]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 11:08:19]	INFO	[14] opcode=1
+[2015-02-05 11:08:19]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 11:08:19]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 11:08:19]	INFO	[14] opcode=1
+[2015-02-05 11:08:19]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 11:08:19]	INFO	CometSesesion #14 no exists. Send failed.
+[2015-02-05 11:08:36]	INFO	NewFrame finish. Opcode=1|Length=60
+[2015-02-05 11:08:36]	INFO	[14] opcode=1
+[2015-02-05 11:08:36]	INFO	onMessage #14: {"cmd":"message","from":14,"channal":0,"data":"sdfsdfdsfds"}
+[2015-02-05 11:08:49]	INFO	NewFrame finish. Opcode=1|Length=67
+[2015-02-05 11:08:49]	INFO	[14] opcode=1
+[2015-02-05 11:08:49]	INFO	onMessage #14: {"cmd":"message","from":14,"channal":0,"data":"sadfsdfsdfdsfdsfsd"}
+[2015-02-05 11:11:15]	INFO	SwooleFramework[#0]. running. on 0.0.0.0:9503
+[2015-02-05 11:11:15]	INFO	SwooleFramework[#1]. running. on 0.0.0.0:9503
+[2015-02-05 11:11:17]	INFO	Event: client[#14@0] connect
+[2015-02-05 11:11:17]	INFO	WebSocket connection #14 is connected
+[2015-02-05 11:11:17]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 11:11:17]	INFO	[14] opcode=1
+[2015-02-05 11:11:17]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 11:11:17]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 11:11:17]	INFO	[14] opcode=1
+[2015-02-05 11:11:17]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 11:11:17]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 11:11:17]	INFO	[14] opcode=1
+[2015-02-05 11:11:17]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 11:11:17]	INFO	CometSesesion #14 no exists. Send failed.
+[2015-02-05 11:11:19]	INFO	NewFrame finish. Opcode=1|Length=57
+[2015-02-05 11:11:19]	INFO	[14] opcode=1
+[2015-02-05 11:11:19]	INFO	onMessage #14: {"cmd":"message","from":14,"channal":0,"data":"dsfsdfds"}
+[2015-02-05 11:11:36]	INFO	NewFrame finish. Opcode=1|Length=61
+[2015-02-05 11:11:36]	INFO	[14] opcode=1
+[2015-02-05 11:11:36]	INFO	onMessage #14: {"cmd":"message","from":14,"channal":0,"data":"sdfsdfdsfsdf"}
+[2015-02-05 11:11:46]	INFO	NewFrame finish. Opcode=1|Length=70
+[2015-02-05 11:11:46]	INFO	[14] opcode=1
+[2015-02-05 11:11:46]	INFO	onMessage #14: {"cmd":"message","from":14,"channal":0,"data":"sdfsdfsdafsdfsdfdsfsd"}
+[2015-02-05 11:11:52]	INFO	NewFrame finish. Opcode=8|Length=2
+[2015-02-05 11:11:52]	INFO	[14] opcode=8
+[2015-02-05 11:11:52]	INFO	server close connection[14]. reason: client active close, code=1001, close_code = 1002
+[2015-02-05 11:11:52]	INFO	Event: client[#14@0] close
+[2015-02-05 11:11:54]	INFO	Event: client[#14@0] connect
+[2015-02-05 11:11:54]	INFO	WebSocket connection #14 is connected
+[2015-02-05 11:11:54]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 11:11:54]	INFO	[14] opcode=1
+[2015-02-05 11:11:54]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 11:11:54]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 11:11:54]	INFO	[14] opcode=1
+[2015-02-05 11:11:54]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 11:11:54]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 11:11:54]	INFO	[14] opcode=1
+[2015-02-05 11:11:54]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 11:11:54]	INFO	CometSesesion #14 no exists. Send failed.
+[2015-02-05 11:12:23]	INFO	NewFrame finish. Opcode=1|Length=60
+[2015-02-05 11:12:23]	INFO	[14] opcode=1
+[2015-02-05 11:12:23]	INFO	onMessage #14: {"cmd":"message","from":14,"channal":0,"data":"sdfsdfdsfsd"}
+[2015-02-05 11:12:51]	INFO	NewFrame finish. Opcode=1|Length=57
+[2015-02-05 11:12:51]	INFO	[14] opcode=1
+[2015-02-05 11:12:51]	INFO	onMessage #14: {"cmd":"message","from":14,"channal":0,"data":"sdfsdfsd"}
+[2015-02-05 11:12:56]	INFO	NewFrame finish. Opcode=1|Length=72
+[2015-02-05 11:12:56]	INFO	[14] opcode=1
+[2015-02-05 11:12:56]	INFO	onMessage #14: {"cmd":"message","from":14,"channal":0,"data":"sdafsdfsdfsdfsfsdfsdfds"}
+[2015-02-05 11:13:31]	INFO	SwooleFramework[#0]. running. on 0.0.0.0:9503
+[2015-02-05 11:13:31]	INFO	SwooleFramework[#1]. running. on 0.0.0.0:9503
+[2015-02-05 11:13:33]	INFO	Event: client[#14@0] connect
+[2015-02-05 11:13:33]	INFO	WebSocket connection #14 is connected
+[2015-02-05 11:13:33]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 11:13:33]	INFO	[14] opcode=1
+[2015-02-05 11:13:33]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 11:13:33]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 11:13:33]	INFO	[14] opcode=1
+[2015-02-05 11:13:33]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 11:13:33]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 11:13:33]	INFO	[14] opcode=1
+[2015-02-05 11:13:33]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 11:13:33]	INFO	CometSesesion #14 no exists. Send failed.
+[2015-02-05 11:13:47]	INFO	NewFrame finish. Opcode=1|Length=79
+[2015-02-05 11:13:47]	INFO	[14] opcode=1
+[2015-02-05 11:13:47]	INFO	onMessage #14: {"cmd":"message","from":14,"channal":0,"data":"寺大夫寺大夫三大阿房"}
+[2015-02-05 11:13:52]	INFO	NewFrame finish. Opcode=8|Length=2
+[2015-02-05 11:13:52]	INFO	[14] opcode=8
+[2015-02-05 11:13:52]	INFO	server close connection[14]. reason: client active close, code=1001, close_code = 1002
+[2015-02-05 11:13:52]	INFO	Event: client[#14@0] close
+[2015-02-05 11:13:54]	INFO	Event: client[#14@0] connect
+[2015-02-05 11:13:54]	INFO	WebSocket connection #14 is connected
+[2015-02-05 11:13:54]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 11:13:54]	INFO	[14] opcode=1
+[2015-02-05 11:13:54]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 11:13:54]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 11:13:54]	INFO	[14] opcode=1
+[2015-02-05 11:13:54]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 11:13:54]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 11:13:54]	INFO	[14] opcode=1
+[2015-02-05 11:13:54]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 11:13:54]	INFO	CometSesesion #14 no exists. Send failed.
+[2015-02-05 11:14:40]	INFO	NewFrame finish. Opcode=8|Length=2
+[2015-02-05 11:14:40]	INFO	[14] opcode=8
+[2015-02-05 11:14:40]	INFO	server close connection[14]. reason: client active close, code=1001, close_code = 1002
+[2015-02-05 11:14:40]	INFO	Event: client[#14@0] close
+[2015-02-05 11:14:43]	INFO	Event: client[#14@0] connect
+[2015-02-05 11:14:43]	INFO	WebSocket connection #14 is connected
+[2015-02-05 11:14:43]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 11:14:43]	INFO	[14] opcode=1
+[2015-02-05 11:14:43]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 11:14:43]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 11:14:43]	INFO	[14] opcode=1
+[2015-02-05 11:14:43]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 11:14:43]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 11:14:43]	INFO	[14] opcode=1
+[2015-02-05 11:14:43]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 11:14:43]	INFO	CometSesesion #14 no exists. Send failed.
+[2015-02-05 11:14:49]	INFO	NewFrame finish. Opcode=8|Length=2
+[2015-02-05 11:14:49]	INFO	[14] opcode=8
+[2015-02-05 11:14:49]	INFO	server close connection[14]. reason: client active close, code=1001, close_code = 1002
+[2015-02-05 11:14:49]	INFO	Event: client[#14@0] close
+[2015-02-05 11:14:50]	INFO	Event: client[#14@0] connect
+[2015-02-05 11:14:50]	INFO	WebSocket connection #14 is connected
+[2015-02-05 11:14:50]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 11:14:50]	INFO	[14] opcode=1
+[2015-02-05 11:14:50]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 11:14:50]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 11:14:50]	INFO	[14] opcode=1
+[2015-02-05 11:14:50]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 11:14:50]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 11:14:50]	INFO	[14] opcode=1
+[2015-02-05 11:14:50]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 11:14:50]	INFO	CometSesesion #14 no exists. Send failed.
+[2015-02-05 11:14:56]	INFO	NewFrame finish. Opcode=8|Length=2
+[2015-02-05 11:14:56]	INFO	[14] opcode=8
+[2015-02-05 11:14:56]	INFO	server close connection[14]. reason: client active close, code=1001, close_code = 1002
+[2015-02-05 11:14:56]	INFO	Event: client[#14@0] close
+[2015-02-05 11:14:58]	INFO	Event: client[#14@0] connect
+[2015-02-05 11:14:58]	INFO	WebSocket connection #14 is connected
+[2015-02-05 11:14:58]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 11:14:58]	INFO	[14] opcode=1
+[2015-02-05 11:14:58]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 11:14:58]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 11:14:58]	INFO	[14] opcode=1
+[2015-02-05 11:14:58]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 11:14:58]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 11:14:58]	INFO	[14] opcode=1
+[2015-02-05 11:14:58]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 11:14:58]	INFO	CometSesesion #14 no exists. Send failed.
+[2015-02-05 11:15:48]	INFO	SwooleFramework[#0]. running. on 0.0.0.0:9503
+[2015-02-05 11:15:48]	INFO	SwooleFramework[#1]. running. on 0.0.0.0:9503
+[2015-02-05 11:15:50]	INFO	Event: client[#14@0] connect
+[2015-02-05 11:15:50]	INFO	WebSocket connection #14 is connected
+[2015-02-05 11:15:50]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 11:15:50]	INFO	[14] opcode=1
+[2015-02-05 11:15:50]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 11:15:50]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 11:15:50]	INFO	[14] opcode=1
+[2015-02-05 11:15:50]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 11:15:50]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 11:15:50]	INFO	[14] opcode=1
+[2015-02-05 11:15:50]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 11:15:50]	INFO	CometSesesion #14 no exists. Send failed.
+[2015-02-05 11:17:04]	INFO	NewFrame finish. Opcode=8|Length=2
+[2015-02-05 11:17:04]	INFO	[14] opcode=8
+[2015-02-05 11:17:04]	INFO	server close connection[14]. reason: client active close, code=1001, close_code = 1002
+[2015-02-05 11:17:04]	INFO	Event: client[#14@0] close
+[2015-02-05 11:17:05]	INFO	Event: client[#14@0] connect
+[2015-02-05 11:17:05]	INFO	WebSocket connection #14 is connected
+[2015-02-05 11:17:05]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 11:17:05]	INFO	[14] opcode=1
+[2015-02-05 11:17:05]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 11:17:06]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 11:17:06]	INFO	[14] opcode=1
+[2015-02-05 11:17:06]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 11:17:06]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 11:17:06]	INFO	[14] opcode=1
+[2015-02-05 11:17:06]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 11:17:06]	INFO	CometSesesion #14 no exists. Send failed.
+[2015-02-05 11:17:10]	INFO	NewFrame finish. Opcode=1|Length=57
+[2015-02-05 11:17:10]	INFO	[14] opcode=1
+[2015-02-05 11:17:10]	INFO	onMessage #14: {"cmd":"message","from":14,"channal":0,"data":"dsfdsfds"}
+[2015-02-05 11:17:41]	INFO	Event: client[#15@0] connect
+[2015-02-05 11:17:41]	INFO	WebSocket connection #15 is connected
+[2015-02-05 11:17:41]	INFO	NewFrame finish. Opcode=1|Length=99
+[2015-02-05 11:17:41]	INFO	[15] opcode=1
+[2015-02-05 11:17:41]	INFO	onMessage #15: {"cmd":"login","name":"admin","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=1&size=small"}
+[2015-02-05 11:17:41]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 11:17:41]	INFO	[15] opcode=1
+[2015-02-05 11:17:41]	INFO	onMessage #15: {"cmd":"getOnline"}
+[2015-02-05 11:17:41]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 11:17:41]	INFO	[15] opcode=1
+[2015-02-05 11:17:41]	INFO	onMessage #15: {"cmd":"getHistory"}
+[2015-02-05 11:17:41]	INFO	CometSesesion #15 no exists. Send failed.
+[2015-02-05 11:17:57]	INFO	NewFrame finish. Opcode=1|Length=58
+[2015-02-05 11:17:57]	INFO	[15] opcode=1
+[2015-02-05 11:17:57]	INFO	onMessage #15: {"cmd":"message","from":15,"channal":0,"data":"asdfsdfsd"}
+[2015-02-05 11:18:09]	INFO	NewFrame finish. Opcode=1|Length=64
+[2015-02-05 11:18:09]	INFO	[15] opcode=1
+[2015-02-05 11:18:09]	INFO	onMessage #15: {"cmd":"message","from":15,"channal":0,"data":"dsfsdfsdfsdfasd"}
+[2015-02-05 11:21:45]	INFO	NewFrame finish. Opcode=8|Length=2
+[2015-02-05 11:21:45]	INFO	[14] opcode=8
+[2015-02-05 11:21:45]	INFO	server close connection[14]. reason: client active close, code=1001, close_code = 1002
+[2015-02-05 11:21:45]	INFO	Event: client[#14@0] close
+[2015-02-05 11:21:51]	INFO	Event: client[#14@0] connect
+[2015-02-05 11:21:51]	INFO	WebSocket connection #14 is connected
+[2015-02-05 11:21:51]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 11:21:51]	INFO	[14] opcode=1
+[2015-02-05 11:21:51]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 11:21:51]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 11:21:51]	INFO	[14] opcode=1
+[2015-02-05 11:21:51]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 11:21:51]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 11:21:51]	INFO	[14] opcode=1
+[2015-02-05 11:21:51]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 11:21:51]	INFO	CometSesesion #14 no exists. Send failed.
+[2015-02-05 11:22:03]	INFO	NewFrame finish. Opcode=1|Length=56
+[2015-02-05 11:22:03]	INFO	[14] opcode=1
+[2015-02-05 11:22:03]	INFO	onMessage #14: {"cmd":"message","from":14,"channal":0,"data":"dssdfds"}
+[2015-02-05 11:22:08]	INFO	NewFrame finish. Opcode=1|Length=58
+[2015-02-05 11:22:08]	INFO	[15] opcode=1
+[2015-02-05 11:22:08]	INFO	onMessage #15: {"cmd":"message","from":15,"channal":0,"data":"dsafsdfds"}
+[2015-02-05 11:22:22]	INFO	NewFrame finish. Opcode=8|Length=2
+[2015-02-05 11:22:22]	INFO	[14] opcode=8
+[2015-02-05 11:22:22]	INFO	server close connection[14]. reason: client active close, code=1001, close_code = 1002
+[2015-02-05 11:22:22]	INFO	Event: client[#14@0] close
+[2015-02-05 11:22:24]	INFO	Event: client[#14@0] connect
+[2015-02-05 11:22:24]	INFO	WebSocket connection #14 is connected
+[2015-02-05 11:22:24]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 11:22:24]	INFO	[14] opcode=1
+[2015-02-05 11:22:24]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 11:22:24]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 11:22:24]	INFO	[14] opcode=1
+[2015-02-05 11:22:24]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 11:22:24]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 11:22:24]	INFO	[14] opcode=1
+[2015-02-05 11:22:24]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 11:22:24]	INFO	CometSesesion #14 no exists. Send failed.
+[2015-02-05 11:23:58]	INFO	SwooleFramework[#0]. running. on 0.0.0.0:9503
+[2015-02-05 11:23:58]	INFO	SwooleFramework[#1]. running. on 0.0.0.0:9503
+[2015-02-05 11:24:00]	INFO	Event: client[#14@0] connect
+[2015-02-05 11:24:00]	INFO	WebSocket connection #14 is connected
+[2015-02-05 11:24:00]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 11:24:00]	INFO	[14] opcode=1
+[2015-02-05 11:24:00]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 11:24:00]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 11:24:00]	INFO	[14] opcode=1
+[2015-02-05 11:24:00]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 11:24:00]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 11:24:00]	INFO	[14] opcode=1
+[2015-02-05 11:24:00]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 11:24:00]	INFO	CometSesesion #14 no exists. Send failed.
+[2015-02-05 11:25:06]	INFO	SwooleFramework[#0]. running. on 0.0.0.0:9503
+[2015-02-05 11:25:06]	INFO	SwooleFramework[#1]. running. on 0.0.0.0:9503
+[2015-02-05 11:25:09]	INFO	Event: client[#14@0] connect
+[2015-02-05 11:25:09]	INFO	WebSocket connection #14 is connected
+[2015-02-05 11:25:09]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 11:25:09]	INFO	[14] opcode=1
+[2015-02-05 11:25:09]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 11:25:09]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 11:25:09]	INFO	[14] opcode=1
+[2015-02-05 11:25:09]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 11:25:09]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 11:25:09]	INFO	[14] opcode=1
+[2015-02-05 11:25:09]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 11:25:09]	INFO	CometSesesion #14 no exists. Send failed.
+[2015-02-05 11:27:05]	INFO	SwooleFramework[#0]. running. on 0.0.0.0:9503
+[2015-02-05 11:27:05]	INFO	SwooleFramework[#1]. running. on 0.0.0.0:9503
+[2015-02-05 11:27:07]	INFO	Event: client[#14@0] connect
+[2015-02-05 11:27:07]	INFO	WebSocket connection #14 is connected
+[2015-02-05 11:27:07]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 11:27:07]	INFO	[14] opcode=1
+[2015-02-05 11:27:07]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 11:27:07]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 11:27:07]	INFO	[14] opcode=1
+[2015-02-05 11:27:07]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 11:27:07]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 11:27:07]	INFO	[14] opcode=1
+[2015-02-05 11:27:07]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 11:27:07]	INFO	CometSesesion #14 no exists. Send failed.
+[2015-02-05 11:27:39]	INFO	SwooleFramework[#0]. running. on 0.0.0.0:9503
+[2015-02-05 11:27:39]	INFO	SwooleFramework[#1]. running. on 0.0.0.0:9503
+[2015-02-05 11:27:41]	INFO	Event: client[#14@0] connect
+[2015-02-05 11:27:42]	INFO	WebSocket connection #14 is connected
+[2015-02-05 11:27:42]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 11:27:42]	INFO	[14] opcode=1
+[2015-02-05 11:27:42]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 11:27:42]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 11:27:42]	INFO	[14] opcode=1
+[2015-02-05 11:27:42]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 11:27:42]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 11:27:42]	INFO	[14] opcode=1
+[2015-02-05 11:27:42]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 11:27:42]	INFO	CometSesesion #14 no exists. Send failed.
+[2015-02-05 11:29:09]	INFO	SwooleFramework[#0]. running. on 0.0.0.0:9503
+[2015-02-05 11:29:09]	INFO	SwooleFramework[#1]. running. on 0.0.0.0:9503
+[2015-02-05 11:29:11]	INFO	Event: client[#14@0] connect
+[2015-02-05 11:29:11]	INFO	WebSocket connection #14 is connected
+[2015-02-05 11:29:11]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 11:29:11]	INFO	[14] opcode=1
+[2015-02-05 11:29:11]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 11:29:11]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 11:29:11]	INFO	[14] opcode=1
+[2015-02-05 11:29:11]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 11:29:11]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 11:29:11]	INFO	[14] opcode=1
+[2015-02-05 11:29:11]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 11:29:11]	INFO	CometSesesion #14 no exists. Send failed.
+[2015-02-05 11:29:22]	INFO	Event: client[#15@0] connect
+[2015-02-05 11:29:22]	INFO	WebSocket connection #15 is connected
+[2015-02-05 11:29:22]	INFO	NewFrame finish. Opcode=1|Length=99
+[2015-02-05 11:29:22]	INFO	[15] opcode=1
+[2015-02-05 11:29:22]	INFO	onMessage #15: {"cmd":"login","name":"admin","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=1&size=small"}
+[2015-02-05 11:29:22]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 11:29:22]	INFO	[15] opcode=1
+[2015-02-05 11:29:22]	INFO	onMessage #15: {"cmd":"getOnline"}
+[2015-02-05 11:29:22]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 11:29:22]	INFO	[15] opcode=1
+[2015-02-05 11:29:22]	INFO	onMessage #15: {"cmd":"getHistory"}
+[2015-02-05 11:29:22]	INFO	CometSesesion #15 no exists. Send failed.
+[2015-02-05 11:30:32]	INFO	SwooleFramework[#0]. running. on 0.0.0.0:9503
+[2015-02-05 11:30:32]	INFO	SwooleFramework[#1]. running. on 0.0.0.0:9503
+[2015-02-05 11:30:33]	INFO	Event: client[#14@0] connect
+[2015-02-05 11:30:33]	INFO	WebSocket connection #14 is connected
+[2015-02-05 11:30:34]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 11:30:34]	INFO	[14] opcode=1
+[2015-02-05 11:30:34]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 11:30:34]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 11:30:34]	INFO	[14] opcode=1
+[2015-02-05 11:30:34]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 11:30:34]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 11:30:34]	INFO	[14] opcode=1
+[2015-02-05 11:30:34]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 11:30:34]	INFO	CometSesesion #14 no exists. Send failed.
+[2015-02-05 14:22:33]	INFO	SwooleFramework[#0]. running. on 0.0.0.0:9503
+[2015-02-05 14:22:33]	INFO	SwooleFramework[#1]. running. on 0.0.0.0:9503
+[2015-02-05 14:22:39]	INFO	Event: client[#14@0] connect
+[2015-02-05 14:22:39]	INFO	WebSocket connection #14 is connected
+[2015-02-05 14:22:39]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 14:22:39]	INFO	[14] opcode=1
+[2015-02-05 14:22:39]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 14:22:39]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 14:22:39]	INFO	[14] opcode=1
+[2015-02-05 14:22:39]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 14:22:39]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 14:22:39]	INFO	[14] opcode=1
+[2015-02-05 14:22:39]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 14:22:39]	INFO	CometSesesion #14 no exists. Send failed.
+[2015-02-05 14:23:41]	INFO	SwooleFramework[#0]. running. on 0.0.0.0:9503
+[2015-02-05 14:23:41]	INFO	SwooleFramework[#1]. running. on 0.0.0.0:9503
+[2015-02-05 14:23:44]	INFO	Event: client[#14@0] connect
+[2015-02-05 14:23:44]	INFO	WebSocket connection #14 is connected
+[2015-02-05 14:23:44]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 14:23:44]	INFO	[14] opcode=1
+[2015-02-05 14:23:44]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 14:23:44]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 14:23:44]	INFO	[14] opcode=1
+[2015-02-05 14:23:44]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 14:23:44]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 14:23:44]	INFO	[14] opcode=1
+[2015-02-05 14:23:44]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 14:23:44]	INFO	CometSesesion #14 no exists. Send failed.
+[2015-02-05 14:24:37]	INFO	NewFrame finish. Opcode=8|Length=2
+[2015-02-05 14:24:37]	INFO	[14] opcode=8
+[2015-02-05 14:24:37]	INFO	server close connection[14]. reason: client active close, code=1001, close_code = 1002
+[2015-02-05 14:24:37]	INFO	Event: client[#14@0] close
+[2015-02-05 14:24:39]	INFO	Event: client[#14@0] connect
+[2015-02-05 14:24:39]	INFO	WebSocket connection #14 is connected
+[2015-02-05 14:24:39]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 14:24:39]	INFO	[14] opcode=1
+[2015-02-05 14:24:39]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 14:24:39]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 14:24:39]	INFO	[14] opcode=1
+[2015-02-05 14:24:39]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 14:24:39]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 14:24:39]	INFO	[14] opcode=1
+[2015-02-05 14:24:39]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 14:24:39]	INFO	CometSesesion #14 no exists. Send failed.
+[2015-02-05 14:27:50]	INFO	SwooleFramework[#0]. running. on 0.0.0.0:9503
+[2015-02-05 14:27:50]	INFO	SwooleFramework[#1]. running. on 0.0.0.0:9503
+[2015-02-05 14:27:52]	INFO	Event: client[#14@0] connect
+[2015-02-05 14:27:52]	INFO	WebSocket connection #14 is connected
+[2015-02-05 14:27:52]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 14:27:52]	INFO	[14] opcode=1
+[2015-02-05 14:27:52]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 14:27:52]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 14:27:52]	INFO	[14] opcode=1
+[2015-02-05 14:27:52]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 14:27:52]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 14:27:52]	INFO	[14] opcode=1
+[2015-02-05 14:27:52]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 14:27:52]	INFO	CometSesesion #14 no exists. Send failed.
+[2015-02-05 14:28:59]	INFO	NewFrame finish. Opcode=8|Length=2
+[2015-02-05 14:28:59]	INFO	[14] opcode=8
+[2015-02-05 14:28:59]	INFO	server close connection[14]. reason: client active close, code=1001, close_code = 1002
+[2015-02-05 14:28:59]	INFO	Event: client[#14@0] close
+[2015-02-05 14:29:00]	INFO	Event: client[#14@0] connect
+[2015-02-05 14:29:00]	INFO	WebSocket connection #14 is connected
+[2015-02-05 14:29:00]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 14:29:00]	INFO	[14] opcode=1
+[2015-02-05 14:29:00]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 14:29:00]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 14:29:00]	INFO	[14] opcode=1
+[2015-02-05 14:29:00]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 14:29:00]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 14:29:00]	INFO	[14] opcode=1
+[2015-02-05 14:29:00]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 14:29:00]	INFO	CometSesesion #14 no exists. Send failed.
+[2015-02-05 14:30:36]	INFO	SwooleFramework[#0]. running. on 0.0.0.0:9503
+[2015-02-05 14:30:36]	INFO	SwooleFramework[#1]. running. on 0.0.0.0:9503
+[2015-02-05 14:30:38]	INFO	Event: client[#14@0] connect
+[2015-02-05 14:30:38]	INFO	WebSocket connection #14 is connected
+[2015-02-05 14:30:38]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 14:30:38]	INFO	[14] opcode=1
+[2015-02-05 14:30:38]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 14:30:38]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 14:30:38]	INFO	[14] opcode=1
+[2015-02-05 14:30:38]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 14:30:38]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 14:30:38]	INFO	[14] opcode=1
+[2015-02-05 14:30:38]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 14:30:38]	INFO	CometSesesion #14 no exists. Send failed.
+[2015-02-05 14:40:55]	INFO	SwooleFramework[#0]. running. on 0.0.0.0:9503
+[2015-02-05 14:40:55]	INFO	SwooleFramework[#1]. running. on 0.0.0.0:9503
+[2015-02-05 14:40:57]	INFO	Event: client[#14@0] connect
+[2015-02-05 14:40:57]	INFO	WebSocket connection #14 is connected
+[2015-02-05 14:40:57]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 14:40:57]	INFO	[14] opcode=1
+[2015-02-05 14:40:57]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 14:40:57]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 14:40:57]	INFO	[14] opcode=1
+[2015-02-05 14:40:57]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 14:40:57]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 14:40:57]	INFO	[14] opcode=1
+[2015-02-05 14:40:57]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 14:40:57]	INFO	CometSesesion #14 no exists. Send failed.
+[2015-02-05 14:41:17]	INFO	NewFrame finish. Opcode=8|Length=2
+[2015-02-05 14:41:17]	INFO	[14] opcode=8
+[2015-02-05 14:41:17]	INFO	server close connection[14]. reason: client active close, code=1001, close_code = 1002
+[2015-02-05 14:41:17]	INFO	Event: client[#14@0] close
+[2015-02-05 14:41:19]	INFO	Event: client[#14@0] connect
+[2015-02-05 14:41:19]	INFO	WebSocket connection #14 is connected
+[2015-02-05 14:41:19]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 14:41:19]	INFO	[14] opcode=1
+[2015-02-05 14:41:19]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 14:41:19]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 14:41:19]	INFO	[14] opcode=1
+[2015-02-05 14:41:19]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 14:41:19]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 14:41:19]	INFO	[14] opcode=1
+[2015-02-05 14:41:19]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 14:41:19]	INFO	CometSesesion #14 no exists. Send failed.
+[2015-02-05 14:43:19]	INFO	NewFrame finish. Opcode=1|Length=59
+[2015-02-05 14:43:19]	INFO	[14] opcode=1
+[2015-02-05 14:43:19]	INFO	onMessage #14: {"cmd":"message","from":14,"channal":0,"data":"sdsdfsdfds"}
+[2015-02-05 14:43:25]	INFO	NewFrame finish. Opcode=1|Length=66
+[2015-02-05 14:43:25]	INFO	[14] opcode=1
+[2015-02-05 14:43:25]	INFO	onMessage #14: {"cmd":"message","from":14,"channal":0,"data":"dsfdsfsdfsdfsdfsd"}
+[2015-02-05 14:43:32]	INFO	Event: client[#15@0] connect
+[2015-02-05 14:43:32]	INFO	WebSocket connection #15 is connected
+[2015-02-05 14:43:33]	INFO	NewFrame finish. Opcode=1|Length=99
+[2015-02-05 14:43:33]	INFO	[15] opcode=1
+[2015-02-05 14:43:33]	INFO	onMessage #15: {"cmd":"login","name":"admin","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=1&size=small"}
+[2015-02-05 14:43:33]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 14:43:33]	INFO	[15] opcode=1
+[2015-02-05 14:43:33]	INFO	onMessage #15: {"cmd":"getOnline"}
+[2015-02-05 14:43:33]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 14:43:33]	INFO	[15] opcode=1
+[2015-02-05 14:43:33]	INFO	onMessage #15: {"cmd":"getHistory"}
+[2015-02-05 14:43:33]	INFO	CometSesesion #15 no exists. Send failed.
+[2015-02-05 14:43:36]	INFO	NewFrame finish. Opcode=1|Length=63
+[2015-02-05 14:43:36]	INFO	[15] opcode=1
+[2015-02-05 14:43:36]	INFO	onMessage #15: {"cmd":"message","from":15,"channal":0,"data":"sdfsdfsdfdsfds"}
+[2015-02-05 14:45:40]	INFO	NewFrame finish. Opcode=8|Length=2
+[2015-02-05 14:45:40]	INFO	[14] opcode=8
+[2015-02-05 14:45:40]	INFO	server close connection[14]. reason: client active close, code=1001, close_code = 1002
+[2015-02-05 14:45:40]	INFO	Event: client[#14@0] close
+[2015-02-05 14:45:41]	INFO	Event: client[#14@0] connect
+[2015-02-05 14:45:41]	INFO	WebSocket connection #14 is connected
+[2015-02-05 14:45:41]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 14:45:41]	INFO	[14] opcode=1
+[2015-02-05 14:45:41]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 14:45:41]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 14:45:41]	INFO	[14] opcode=1
+[2015-02-05 14:45:41]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 14:45:41]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 14:45:41]	INFO	[14] opcode=1
+[2015-02-05 14:45:41]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 14:45:41]	INFO	CometSesesion #14 no exists. Send failed.
+[2015-02-05 14:47:12]	INFO	SwooleFramework[#0]. running. on 0.0.0.0:9503
+[2015-02-05 14:47:12]	INFO	SwooleFramework[#1]. running. on 0.0.0.0:9503
+[2015-02-05 14:47:13]	INFO	Event: client[#14@0] connect
+[2015-02-05 14:47:13]	INFO	WebSocket connection #14 is connected
+[2015-02-05 14:47:13]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 14:47:13]	INFO	[14] opcode=1
+[2015-02-05 14:47:13]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 14:47:13]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 14:47:13]	INFO	[14] opcode=1
+[2015-02-05 14:47:13]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 14:47:13]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 14:47:13]	INFO	[14] opcode=1
+[2015-02-05 14:47:13]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 14:47:13]	INFO	CometSesesion #14 no exists. Send failed.
+[2015-02-05 14:49:22]	INFO	SwooleFramework[#0]. running. on 0.0.0.0:9503
+[2015-02-05 14:49:22]	INFO	SwooleFramework[#1]. running. on 0.0.0.0:9503
+[2015-02-05 14:49:23]	INFO	Event: client[#14@0] connect
+[2015-02-05 14:49:23]	INFO	WebSocket connection #14 is connected
+[2015-02-05 14:49:23]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 14:49:23]	INFO	[14] opcode=1
+[2015-02-05 14:49:23]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 14:49:23]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 14:49:23]	INFO	[14] opcode=1
+[2015-02-05 14:49:23]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 14:49:23]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 14:49:23]	INFO	[14] opcode=1
+[2015-02-05 14:49:23]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 14:49:23]	INFO	CometSesesion #14 no exists. Send failed.
+[2015-02-05 14:51:11]	INFO	SwooleFramework[#0]. running. on 0.0.0.0:9503
+[2015-02-05 14:51:11]	INFO	SwooleFramework[#1]. running. on 0.0.0.0:9503
+[2015-02-05 14:51:13]	INFO	Event: client[#14@0] connect
+[2015-02-05 14:51:13]	INFO	WebSocket connection #14 is connected
+[2015-02-05 14:51:13]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 14:51:13]	INFO	[14] opcode=1
+[2015-02-05 14:51:13]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 14:51:13]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 14:51:13]	INFO	[14] opcode=1
+[2015-02-05 14:51:13]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 14:51:13]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 14:51:13]	INFO	[14] opcode=1
+[2015-02-05 14:51:13]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 14:51:13]	INFO	CometSesesion #14 no exists. Send failed.
+[2015-02-05 14:52:25]	INFO	SwooleFramework[#0]. running. on 0.0.0.0:9503
+[2015-02-05 14:52:25]	INFO	SwooleFramework[#1]. running. on 0.0.0.0:9503
+[2015-02-05 14:52:27]	INFO	Event: client[#14@0] connect
+[2015-02-05 14:52:27]	INFO	WebSocket connection #14 is connected
+[2015-02-05 14:52:27]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 14:52:27]	INFO	[14] opcode=1
+[2015-02-05 14:52:27]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 14:52:27]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 14:52:27]	INFO	[14] opcode=1
+[2015-02-05 14:52:27]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 14:52:27]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 14:52:27]	INFO	[14] opcode=1
+[2015-02-05 14:52:27]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 14:52:27]	INFO	CometSesesion #14 no exists. Send failed.
+[2015-02-05 14:52:57]	INFO	SwooleFramework[#0]. running. on 0.0.0.0:9503
+[2015-02-05 14:52:57]	INFO	SwooleFramework[#1]. running. on 0.0.0.0:9503
+[2015-02-05 14:52:58]	INFO	Event: client[#14@0] connect
+[2015-02-05 14:52:58]	INFO	WebSocket connection #14 is connected
+[2015-02-05 14:52:58]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 14:52:58]	INFO	[14] opcode=1
+[2015-02-05 14:52:58]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 14:52:58]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 14:52:58]	INFO	[14] opcode=1
+[2015-02-05 14:52:58]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 14:52:58]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 14:52:58]	INFO	[14] opcode=1
+[2015-02-05 14:52:58]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 14:52:58]	INFO	CometSesesion #14 no exists. Send failed.
+[2015-02-05 14:54:28]	INFO	SwooleFramework[#0]. running. on 0.0.0.0:9503
+[2015-02-05 14:54:28]	INFO	SwooleFramework[#1]. running. on 0.0.0.0:9503
+[2015-02-05 14:54:29]	INFO	Event: client[#14@0] connect
+[2015-02-05 14:54:29]	INFO	WebSocket connection #14 is connected
+[2015-02-05 14:54:30]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 14:54:30]	INFO	[14] opcode=1
+[2015-02-05 14:54:30]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 14:54:30]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 14:54:30]	INFO	[14] opcode=1
+[2015-02-05 14:54:30]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 14:54:30]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 14:54:30]	INFO	[14] opcode=1
+[2015-02-05 14:54:30]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 14:54:30]	INFO	CometSesesion #14 no exists. Send failed.
+[2015-02-05 14:57:29]	INFO	SwooleFramework[#0]. running. on 0.0.0.0:9503
+[2015-02-05 14:57:29]	INFO	SwooleFramework[#1]. running. on 0.0.0.0:9503
+[2015-02-05 14:57:31]	INFO	Event: client[#14@0] connect
+[2015-02-05 14:57:31]	INFO	WebSocket connection #14 is connected
+[2015-02-05 14:57:31]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 14:57:31]	INFO	[14] opcode=1
+[2015-02-05 14:57:31]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 14:57:31]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 14:57:31]	INFO	[14] opcode=1
+[2015-02-05 14:57:31]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 14:57:31]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 14:57:31]	INFO	[14] opcode=1
+[2015-02-05 14:57:31]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 14:57:31]	INFO	CometSesesion #14 no exists. Send failed.
+[2015-02-05 14:59:44]	INFO	SwooleFramework[#0]. running. on 0.0.0.0:9503
+[2015-02-05 14:59:44]	INFO	SwooleFramework[#1]. running. on 0.0.0.0:9503
+[2015-02-05 14:59:45]	INFO	Event: client[#14@0] connect
+[2015-02-05 14:59:45]	INFO	WebSocket connection #14 is connected
+[2015-02-05 14:59:45]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 14:59:45]	INFO	[14] opcode=1
+[2015-02-05 14:59:45]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 14:59:45]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 14:59:45]	INFO	[14] opcode=1
+[2015-02-05 14:59:45]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 14:59:45]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 14:59:45]	INFO	[14] opcode=1
+[2015-02-05 14:59:45]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 14:59:45]	INFO	CometSesesion #14 no exists. Send failed.
+[2015-02-05 15:00:32]	INFO	SwooleFramework[#0]. running. on 0.0.0.0:9503
+[2015-02-05 15:00:32]	INFO	SwooleFramework[#1]. running. on 0.0.0.0:9503
+[2015-02-05 15:00:34]	INFO	Event: client[#14@0] connect
+[2015-02-05 15:00:34]	INFO	WebSocket connection #14 is connected
+[2015-02-05 15:00:34]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 15:00:34]	INFO	[14] opcode=1
+[2015-02-05 15:00:34]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 15:00:34]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 15:00:34]	INFO	[14] opcode=1
+[2015-02-05 15:00:34]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 15:00:34]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 15:00:34]	INFO	[14] opcode=1
+[2015-02-05 15:00:34]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 15:00:34]	INFO	CometSesesion #14 no exists. Send failed.
+[2015-02-05 15:01:53]	INFO	NewFrame finish. Opcode=8|Length=2
+[2015-02-05 15:01:53]	INFO	[14] opcode=8
+[2015-02-05 15:01:53]	INFO	server close connection[14]. reason: client active close, code=1001, close_code = 1002
+[2015-02-05 15:01:53]	INFO	Event: client[#14@0] close
+[2015-02-05 15:01:55]	INFO	Event: client[#14@0] connect
+[2015-02-05 15:01:55]	INFO	WebSocket connection #14 is connected
+[2015-02-05 15:01:55]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 15:01:55]	INFO	[14] opcode=1
+[2015-02-05 15:01:55]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 15:01:55]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 15:01:55]	INFO	[14] opcode=1
+[2015-02-05 15:01:55]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 15:01:55]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 15:01:55]	INFO	[14] opcode=1
+[2015-02-05 15:01:55]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 15:01:55]	INFO	CometSesesion #14 no exists. Send failed.
+[2015-02-05 15:03:55]	INFO	SwooleFramework[#0]. running. on 0.0.0.0:9503
+[2015-02-05 15:03:55]	INFO	SwooleFramework[#1]. running. on 0.0.0.0:9503
+[2015-02-05 15:03:57]	INFO	Event: client[#14@0] connect
+[2015-02-05 15:03:57]	INFO	WebSocket connection #14 is connected
+[2015-02-05 15:03:57]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 15:03:57]	INFO	[14] opcode=1
+[2015-02-05 15:03:57]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 15:03:57]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 15:03:57]	INFO	[14] opcode=1
+[2015-02-05 15:03:57]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 15:03:57]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 15:03:57]	INFO	[14] opcode=1
+[2015-02-05 15:03:57]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 15:03:57]	INFO	CometSesesion #14 no exists. Send failed.
+[2015-02-05 15:05:53]	INFO	NewFrame finish. Opcode=8|Length=2
+[2015-02-05 15:05:53]	INFO	[14] opcode=8
+[2015-02-05 15:05:53]	INFO	server close connection[14]. reason: client active close, code=1001, close_code = 1002
+[2015-02-05 15:05:53]	INFO	Event: client[#14@0] close
+[2015-02-05 15:05:55]	INFO	Event: client[#14@0] connect
+[2015-02-05 15:05:55]	INFO	WebSocket connection #14 is connected
+[2015-02-05 15:05:55]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 15:05:55]	INFO	[14] opcode=1
+[2015-02-05 15:05:55]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 15:05:55]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 15:05:55]	INFO	[14] opcode=1
+[2015-02-05 15:05:55]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 15:05:55]	INFO	CometSesesion #14 no exists. Send failed.
+[2015-02-05 15:09:36]	INFO	SwooleFramework[#0]. running. on 0.0.0.0:9503
+[2015-02-05 15:09:36]	INFO	SwooleFramework[#1]. running. on 0.0.0.0:9503
+[2015-02-05 15:09:38]	INFO	Event: client[#14@0] connect
+[2015-02-05 15:09:38]	INFO	WebSocket connection #14 is connected
+[2015-02-05 15:09:38]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 15:09:38]	INFO	[14] opcode=1
+[2015-02-05 15:09:38]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 15:09:38]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 15:09:38]	INFO	[14] opcode=1
+[2015-02-05 15:09:38]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 15:09:38]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 15:09:38]	INFO	[14] opcode=1
+[2015-02-05 15:09:38]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 15:17:01]	INFO	SwooleFramework[#0]. running. on 0.0.0.0:9503
+[2015-02-05 15:17:01]	INFO	SwooleFramework[#1]. running. on 0.0.0.0:9503
+[2015-02-05 15:17:04]	INFO	Event: client[#14@0] connect
+[2015-02-05 15:17:04]	INFO	WebSocket connection #14 is connected
+[2015-02-05 15:17:04]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 15:17:04]	INFO	[14] opcode=1
+[2015-02-05 15:17:04]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 15:17:04]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 15:17:04]	INFO	[14] opcode=1
+[2015-02-05 15:17:04]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 15:17:04]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 15:17:04]	INFO	[14] opcode=1
+[2015-02-05 15:17:04]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 15:17:04]	INFO	CometSesesion #14 no exists. Send failed.
+[2015-02-05 15:20:33]	INFO	SwooleFramework[#0]. running. on 0.0.0.0:9503
+[2015-02-05 15:20:33]	INFO	SwooleFramework[#1]. running. on 0.0.0.0:9503
+[2015-02-05 15:20:35]	INFO	Event: client[#14@0] connect
+[2015-02-05 15:20:35]	INFO	WebSocket connection #14 is connected
+[2015-02-05 15:20:35]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 15:20:35]	INFO	[14] opcode=1
+[2015-02-05 15:20:35]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 15:20:35]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 15:20:35]	INFO	[14] opcode=1
+[2015-02-05 15:20:35]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 15:20:35]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 15:20:35]	INFO	[14] opcode=1
+[2015-02-05 15:20:35]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 15:20:35]	INFO	CometSesesion #14 no exists. Send failed.
+[2015-02-05 15:31:45]	INFO	SwooleFramework[#0]. running. on 0.0.0.0:9503
+[2015-02-05 15:31:45]	INFO	SwooleFramework[#1]. running. on 0.0.0.0:9503
+[2015-02-05 15:31:48]	INFO	Event: client[#14@0] connect
+[2015-02-05 15:31:48]	INFO	WebSocket connection #14 is connected
+[2015-02-05 15:31:48]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 15:31:48]	INFO	[14] opcode=1
+[2015-02-05 15:31:48]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 15:31:48]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 15:31:48]	INFO	[14] opcode=1
+[2015-02-05 15:31:48]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 15:31:48]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 15:31:48]	INFO	[14] opcode=1
+[2015-02-05 15:31:48]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 15:31:48]	INFO	CometSesesion #14 no exists. Send failed.
+[2015-02-05 15:37:36]	INFO	SwooleFramework[#1]. running. on 0.0.0.0:9503
+[2015-02-05 15:37:36]	INFO	SwooleFramework[#0]. running. on 0.0.0.0:9503
+[2015-02-05 15:37:37]	INFO	Event: client[#14@0] connect
+[2015-02-05 15:37:37]	INFO	WebSocket connection #14 is connected
+[2015-02-05 15:37:37]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 15:37:37]	INFO	[14] opcode=1
+[2015-02-05 15:37:37]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 15:37:37]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 15:37:37]	INFO	[14] opcode=1
+[2015-02-05 15:37:37]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 15:37:37]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 15:37:37]	INFO	[14] opcode=1
+[2015-02-05 15:37:37]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 15:37:37]	INFO	CometSesesion #14 no exists. Send failed.
+[2015-02-05 15:39:31]	INFO	SwooleFramework[#0]. running. on 0.0.0.0:9503
+[2015-02-05 15:39:31]	INFO	SwooleFramework[#1]. running. on 0.0.0.0:9503
+[2015-02-05 15:39:33]	INFO	Event: client[#14@0] connect
+[2015-02-05 15:39:33]	INFO	WebSocket connection #14 is connected
+[2015-02-05 15:39:33]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 15:39:33]	INFO	[14] opcode=1
+[2015-02-05 15:39:33]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 15:39:33]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 15:39:33]	INFO	[14] opcode=1
+[2015-02-05 15:39:33]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 15:39:33]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 15:39:33]	INFO	[14] opcode=1
+[2015-02-05 15:39:33]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 15:39:49]	INFO	NewFrame finish. Opcode=1|Length=62
+[2015-02-05 15:39:49]	INFO	[14] opcode=1
+[2015-02-05 15:39:49]	INFO	onMessage #14: {"cmd":"message","from":14,"channal":0,"data":"dfasdafsdafds"}
+[2015-02-05 15:39:52]	INFO	NewFrame finish. Opcode=1|Length=66
+[2015-02-05 15:39:52]	INFO	[14] opcode=1
+[2015-02-05 15:39:52]	INFO	onMessage #14: {"cmd":"message","from":14,"channal":0,"data":"asdfsdfsdadfsdfsd"}
+[2015-02-05 15:39:55]	INFO	NewFrame finish. Opcode=1|Length=64
+[2015-02-05 15:39:55]	INFO	[14] opcode=1
+[2015-02-05 15:39:55]	INFO	onMessage #14: {"cmd":"message","from":14,"channal":0,"data":"sdfsdfsdfsdafsd"}
+[2015-02-05 15:39:58]	INFO	NewFrame finish. Opcode=1|Length=63
+[2015-02-05 15:39:58]	INFO	[14] opcode=1
+[2015-02-05 15:39:58]	INFO	onMessage #14: {"cmd":"message","from":14,"channal":0,"data":"sdfsdfdsfdsfsd"}
+[2015-02-05 15:40:00]	INFO	NewFrame finish. Opcode=1|Length=53
+[2015-02-05 15:40:00]	INFO	[14] opcode=1
+[2015-02-05 15:40:00]	INFO	onMessage #14: {"cmd":"message","from":14,"channal":0,"data":"sdds"}
+[2015-02-05 15:40:01]	INFO	NewFrame finish. Opcode=8|Length=2
+[2015-02-05 15:40:01]	INFO	[14] opcode=8
+[2015-02-05 15:40:01]	INFO	server close connection[14]. reason: client active close, code=1001, close_code = 1002
+[2015-02-05 15:40:01]	INFO	Event: client[#14@0] close
+[2015-02-05 15:40:04]	INFO	Event: client[#14@0] connect
+[2015-02-05 15:40:04]	INFO	WebSocket connection #14 is connected
+[2015-02-05 15:40:04]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 15:40:04]	INFO	[14] opcode=1
+[2015-02-05 15:40:04]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 15:40:04]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 15:40:04]	INFO	[14] opcode=1
+[2015-02-05 15:40:04]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 15:40:04]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 15:40:04]	INFO	[14] opcode=1
+[2015-02-05 15:40:04]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 15:40:14]	INFO	NewFrame finish. Opcode=8|Length=2
+[2015-02-05 15:40:14]	INFO	[14] opcode=8
+[2015-02-05 15:40:14]	INFO	server close connection[14]. reason: client active close, code=1001, close_code = 1002
+[2015-02-05 15:40:14]	INFO	Event: client[#14@0] close
+[2015-02-05 15:40:15]	INFO	Event: client[#14@0] connect
+[2015-02-05 15:40:15]	INFO	WebSocket connection #14 is connected
+[2015-02-05 15:40:15]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 15:40:15]	INFO	[14] opcode=1
+[2015-02-05 15:40:15]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 15:40:15]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 15:40:15]	INFO	[14] opcode=1
+[2015-02-05 15:40:15]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 15:40:15]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 15:40:15]	INFO	[14] opcode=1
+[2015-02-05 15:40:15]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 15:40:26]	INFO	NewFrame finish. Opcode=1|Length=68
+[2015-02-05 15:40:26]	INFO	[14] opcode=1
+[2015-02-05 15:40:26]	INFO	onMessage #14: {"cmd":"message","from":14,"channal":0,"data":"sdfsda1222222222222"}
+[2015-02-05 15:40:28]	INFO	NewFrame finish. Opcode=8|Length=2
+[2015-02-05 15:40:28]	INFO	[14] opcode=8
+[2015-02-05 15:40:28]	INFO	server close connection[14]. reason: client active close, code=1001, close_code = 1002
+[2015-02-05 15:40:28]	INFO	Event: client[#14@0] close
+[2015-02-05 15:40:29]	INFO	Event: client[#14@0] connect
+[2015-02-05 15:40:29]	INFO	WebSocket connection #14 is connected
+[2015-02-05 15:40:29]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 15:40:29]	INFO	[14] opcode=1
+[2015-02-05 15:40:29]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 15:40:29]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 15:40:29]	INFO	[14] opcode=1
+[2015-02-05 15:40:29]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 15:40:29]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 15:40:29]	INFO	[14] opcode=1
+[2015-02-05 15:40:29]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 15:40:40]	INFO	NewFrame finish. Opcode=1|Length=89
+[2015-02-05 15:40:40]	INFO	[14] opcode=1
+[2015-02-05 15:40:40]	INFO	onMessage #14: {"cmd":"message","from":14,"channal":0,"data":"s所打动萨发送大夫的萨福萨福"}
+[2015-02-05 15:40:49]	INFO	NewFrame finish. Opcode=1|Length=82
+[2015-02-05 15:40:49]	INFO	[14] opcode=1
+[2015-02-05 15:40:49]	INFO	onMessage #14: {"cmd":"message","from":14,"channal":0,"data":"safsdfsdf的萨福寺大夫寺的"}
+[2015-02-05 15:40:53]	INFO	NewFrame finish. Opcode=8|Length=2
+[2015-02-05 15:40:53]	INFO	[14] opcode=8
+[2015-02-05 15:40:53]	INFO	server close connection[14]. reason: client active close, code=1001, close_code = 1002
+[2015-02-05 15:40:53]	INFO	Event: client[#14@0] close
+[2015-02-05 15:40:55]	INFO	Event: client[#14@0] connect
+[2015-02-05 15:40:55]	INFO	WebSocket connection #14 is connected
+[2015-02-05 15:40:55]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 15:40:55]	INFO	[14] opcode=1
+[2015-02-05 15:40:55]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 15:40:55]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 15:40:55]	INFO	[14] opcode=1
+[2015-02-05 15:40:55]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 15:40:55]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 15:40:55]	INFO	[14] opcode=1
+[2015-02-05 15:40:55]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 15:42:32]	INFO	NewFrame finish. Opcode=1|Length=67
+[2015-02-05 15:42:32]	INFO	[14] opcode=1
+[2015-02-05 15:42:32]	INFO	onMessage #14: {"cmd":"message","from":14,"channal":0,"data":"寺的萨的打算"}
+[2015-02-05 15:42:35]	INFO	NewFrame finish. Opcode=8|Length=2
+[2015-02-05 15:42:35]	INFO	[14] opcode=8
+[2015-02-05 15:42:35]	INFO	server close connection[14]. reason: client active close, code=1001, close_code = 1002
+[2015-02-05 15:42:35]	INFO	Event: client[#14@0] close
+[2015-02-05 15:42:37]	INFO	Event: client[#14@0] connect
+[2015-02-05 15:42:37]	INFO	WebSocket connection #14 is connected
+[2015-02-05 15:42:37]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 15:42:37]	INFO	[14] opcode=1
+[2015-02-05 15:42:37]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 15:42:37]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 15:42:37]	INFO	[14] opcode=1
+[2015-02-05 15:42:37]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 15:42:37]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 15:42:37]	INFO	[14] opcode=1
+[2015-02-05 15:42:37]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 15:44:14]	INFO	NewFrame finish. Opcode=1|Length=62
+[2015-02-05 15:44:14]	INFO	[14] opcode=1
+[2015-02-05 15:44:14]	INFO	onMessage #14: {"cmd":"message","from":14,"channal":0,"data":"sadfasdfsdfds"}
+[2015-02-05 15:45:58]	INFO	NewFrame finish. Opcode=1|Length=57
+[2015-02-05 15:45:58]	INFO	[14] opcode=1
+[2015-02-05 15:45:58]	INFO	onMessage #14: {"cmd":"message","from":14,"channal":0,"data":"sdfsdfsd"}
+[2015-02-05 15:46:01]	INFO	NewFrame finish. Opcode=8|Length=2
+[2015-02-05 15:46:01]	INFO	[14] opcode=8
+[2015-02-05 15:46:01]	INFO	server close connection[14]. reason: client active close, code=1001, close_code = 1002
+[2015-02-05 15:46:01]	INFO	Event: client[#14@0] close
+[2015-02-05 15:46:03]	INFO	Event: client[#14@0] connect
+[2015-02-05 15:46:03]	INFO	WebSocket connection #14 is connected
+[2015-02-05 15:46:03]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 15:46:03]	INFO	[14] opcode=1
+[2015-02-05 15:46:03]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 15:46:03]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 15:46:03]	INFO	[14] opcode=1
+[2015-02-05 15:46:03]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 15:46:03]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 15:46:03]	INFO	[14] opcode=1
+[2015-02-05 15:46:03]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 15:46:47]	INFO	SwooleFramework[#0]. running. on 0.0.0.0:9503
+[2015-02-05 15:46:47]	INFO	SwooleFramework[#1]. running. on 0.0.0.0:9503
+[2015-02-05 15:46:53]	INFO	Event: client[#14@0] connect
+[2015-02-05 15:46:53]	INFO	WebSocket connection #14 is connected
+[2015-02-05 15:46:53]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 15:46:53]	INFO	[14] opcode=1
+[2015-02-05 15:46:53]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 15:46:53]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 15:46:53]	INFO	[14] opcode=1
+[2015-02-05 15:46:53]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 15:46:53]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 15:46:53]	INFO	[14] opcode=1
+[2015-02-05 15:46:53]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 15:47:11]	INFO	NewFrame finish. Opcode=1|Length=59
+[2015-02-05 15:47:11]	INFO	[14] opcode=1
+[2015-02-05 15:47:11]	INFO	onMessage #14: {"cmd":"message","from":14,"channal":0,"data":"1111111111"}
+[2015-02-05 15:47:15]	INFO	NewFrame finish. Opcode=1|Length=62
+[2015-02-05 15:47:15]	INFO	[14] opcode=1
+[2015-02-05 15:47:15]	INFO	onMessage #14: {"cmd":"message","from":14,"channal":0,"data":"2222222222222"}
+[2015-02-05 15:47:24]	INFO	NewFrame finish. Opcode=8|Length=2
+[2015-02-05 15:47:24]	INFO	[14] opcode=8
+[2015-02-05 15:47:24]	INFO	server close connection[14]. reason: client active close, code=1001, close_code = 1002
+[2015-02-05 15:47:24]	INFO	Event: client[#14@0] close
+[2015-02-05 15:47:26]	INFO	Event: client[#14@0] connect
+[2015-02-05 15:47:26]	INFO	WebSocket connection #14 is connected
+[2015-02-05 15:47:26]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 15:47:26]	INFO	[14] opcode=1
+[2015-02-05 15:47:26]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 15:47:26]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 15:47:26]	INFO	[14] opcode=1
+[2015-02-05 15:47:26]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 15:47:26]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 15:47:26]	INFO	[14] opcode=1
+[2015-02-05 15:47:26]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 15:47:57]	INFO	NewFrame finish. Opcode=1|Length=57
+[2015-02-05 15:47:57]	INFO	[14] opcode=1
+[2015-02-05 15:47:57]	INFO	onMessage #14: {"cmd":"message","from":14,"channal":0,"data":"ewweqrwe"}
+[2015-02-05 15:48:02]	INFO	NewFrame finish. Opcode=1|Length=55
+[2015-02-05 15:48:02]	INFO	[14] opcode=1
+[2015-02-05 15:48:02]	INFO	onMessage #14: {"cmd":"message","from":14,"channal":0,"data":"sddsds"}
+[2015-02-05 15:48:04]	INFO	NewFrame finish. Opcode=8|Length=2
+[2015-02-05 15:48:04]	INFO	[14] opcode=8
+[2015-02-05 15:48:04]	INFO	server close connection[14]. reason: client active close, code=1001, close_code = 1002
+[2015-02-05 15:48:04]	INFO	Event: client[#14@0] close
+[2015-02-05 15:48:06]	INFO	Event: client[#14@0] connect
+[2015-02-05 15:48:06]	INFO	WebSocket connection #14 is connected
+[2015-02-05 15:48:06]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 15:48:06]	INFO	[14] opcode=1
+[2015-02-05 15:48:06]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 15:48:06]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 15:48:06]	INFO	[14] opcode=1
+[2015-02-05 15:48:06]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 15:48:06]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 15:48:06]	INFO	[14] opcode=1
+[2015-02-05 15:48:06]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 15:51:50]	INFO	NewFrame finish. Opcode=8|Length=2
+[2015-02-05 15:51:50]	INFO	[14] opcode=8
+[2015-02-05 15:51:50]	INFO	server close connection[14]. reason: client active close, code=1001, close_code = 1002
+[2015-02-05 15:51:50]	INFO	Event: client[#14@0] close
+[2015-02-05 15:51:51]	INFO	Event: client[#14@0] connect
+[2015-02-05 15:51:51]	INFO	WebSocket connection #14 is connected
+[2015-02-05 15:51:52]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 15:51:52]	INFO	[14] opcode=1
+[2015-02-05 15:51:52]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 15:51:52]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 15:51:52]	INFO	[14] opcode=1
+[2015-02-05 15:51:52]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 15:51:52]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 15:51:52]	INFO	[14] opcode=1
+[2015-02-05 15:51:52]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 15:51:55]	INFO	NewFrame finish. Opcode=1|Length=60
+[2015-02-05 15:51:55]	INFO	[14] opcode=1
+[2015-02-05 15:51:55]	INFO	onMessage #14: {"cmd":"message","from":14,"channal":0,"data":"sdfsdfsdfds"}
+[2015-02-05 15:51:57]	INFO	NewFrame finish. Opcode=1|Length=55
+[2015-02-05 15:51:57]	INFO	[14] opcode=1
+[2015-02-05 15:51:57]	INFO	onMessage #14: {"cmd":"message","from":14,"channal":0,"data":"sddssd"}
+[2015-02-05 15:52:09]	INFO	SwooleFramework[#0]. running. on 0.0.0.0:9503
+[2015-02-05 15:52:09]	INFO	SwooleFramework[#1]. running. on 0.0.0.0:9503
+[2015-02-05 15:52:28]	INFO	Event: client[#14@0] connect
+[2015-02-05 15:52:28]	INFO	WebSocket connection #14 is connected
+[2015-02-05 15:52:28]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 15:52:28]	INFO	[14] opcode=1
+[2015-02-05 15:52:28]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 15:52:28]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 15:52:28]	INFO	[14] opcode=1
+[2015-02-05 15:52:28]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 15:52:28]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 15:52:28]	INFO	[14] opcode=1
+[2015-02-05 15:52:28]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 15:52:30]	INFO	NewFrame finish. Opcode=1|Length=63
+[2015-02-05 15:52:30]	INFO	[14] opcode=1
+[2015-02-05 15:52:30]	INFO	onMessage #14: {"cmd":"message","from":14,"channal":0,"data":"sadfsdfaasdfsd"}
+[2015-02-05 15:52:34]	INFO	NewFrame finish. Opcode=1|Length=61
+[2015-02-05 15:52:34]	INFO	[14] opcode=1
+[2015-02-05 15:52:34]	INFO	onMessage #14: {"cmd":"message","from":14,"channal":0,"data":"111111111111"}
+[2015-02-05 15:52:36]	INFO	NewFrame finish. Opcode=1|Length=66
+[2015-02-05 15:52:36]	INFO	[14] opcode=1
+[2015-02-05 15:52:36]	INFO	onMessage #14: {"cmd":"message","from":14,"channal":0,"data":"22222222222222222"}
+[2015-02-05 15:52:44]	INFO	NewFrame finish. Opcode=8|Length=2
+[2015-02-05 15:52:44]	INFO	[14] opcode=8
+[2015-02-05 15:52:44]	INFO	server close connection[14]. reason: client active close, code=1001, close_code = 1002
+[2015-02-05 15:52:44]	INFO	Event: client[#14@0] close
+[2015-02-05 15:53:00]	INFO	Event: client[#14@0] connect
+[2015-02-05 15:53:00]	INFO	WebSocket connection #14 is connected
+[2015-02-05 15:53:00]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 15:53:00]	INFO	[14] opcode=1
+[2015-02-05 15:53:00]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 15:53:00]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 15:53:00]	INFO	[14] opcode=1
+[2015-02-05 15:53:00]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 15:53:00]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 15:53:00]	INFO	[14] opcode=1
+[2015-02-05 15:53:00]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 15:53:32]	INFO	SwooleFramework[#1]. running. on 0.0.0.0:9503
+[2015-02-05 15:53:32]	INFO	SwooleFramework[#0]. running. on 0.0.0.0:9503
+[2015-02-05 15:53:35]	INFO	Event: client[#14@0] connect
+[2015-02-05 15:53:35]	INFO	WebSocket connection #14 is connected
+[2015-02-05 15:53:35]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 15:53:35]	INFO	[14] opcode=1
+[2015-02-05 15:53:35]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 15:53:35]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 15:53:35]	INFO	[14] opcode=1
+[2015-02-05 15:53:35]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 15:53:35]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 15:53:35]	INFO	[14] opcode=1
+[2015-02-05 15:53:35]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 15:53:50]	INFO	NewFrame finish. Opcode=1|Length=63
+[2015-02-05 15:53:50]	INFO	[14] opcode=1
+[2015-02-05 15:53:50]	INFO	onMessage #14: {"cmd":"message","from":14,"channal":0,"data":"33333333333333"}
+[2015-02-05 15:53:53]	INFO	NewFrame finish. Opcode=1|Length=76
+[2015-02-05 15:53:53]	INFO	[14] opcode=1
+[2015-02-05 15:53:53]	INFO	onMessage #14: {"cmd":"message","from":14,"channal":0,"data":"444444444444444444444444444"}
+[2015-02-05 15:53:56]	INFO	NewFrame finish. Opcode=8|Length=2
+[2015-02-05 15:53:56]	INFO	[14] opcode=8
+[2015-02-05 15:53:56]	INFO	server close connection[14]. reason: client active close, code=1001, close_code = 1002
+[2015-02-05 15:53:56]	INFO	Event: client[#14@0] close
+[2015-02-05 15:53:59]	INFO	Event: client[#14@0] connect
+[2015-02-05 15:53:59]	INFO	WebSocket connection #14 is connected
+[2015-02-05 15:53:59]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 15:53:59]	INFO	[14] opcode=1
+[2015-02-05 15:53:59]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 15:53:59]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 15:53:59]	INFO	[14] opcode=1
+[2015-02-05 15:53:59]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 15:53:59]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 15:53:59]	INFO	[14] opcode=1
+[2015-02-05 15:53:59]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 15:54:13]	INFO	NewFrame finish. Opcode=8|Length=2
+[2015-02-05 15:54:13]	INFO	[14] opcode=8
+[2015-02-05 15:54:13]	INFO	server close connection[14]. reason: client active close, code=1001, close_code = 1002
+[2015-02-05 15:54:13]	INFO	Event: client[#14@0] close
+[2015-02-05 16:03:06]	INFO	Event: client[#14@0] connect
+[2015-02-05 16:03:06]	INFO	WebSocket connection #14 is connected
+[2015-02-05 16:03:06]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 16:03:06]	INFO	[14] opcode=1
+[2015-02-05 16:03:06]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 16:03:06]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 16:03:06]	INFO	[14] opcode=1
+[2015-02-05 16:03:06]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 16:03:06]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 16:03:06]	INFO	[14] opcode=1
+[2015-02-05 16:03:06]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 16:03:12]	INFO	NewFrame finish. Opcode=1|Length=61
+[2015-02-05 16:03:12]	INFO	[14] opcode=1
+[2015-02-05 16:03:12]	INFO	onMessage #14: {"cmd":"message","from":14,"channal":0,"data":"333333333333"}
+[2015-02-05 16:03:15]	INFO	NewFrame finish. Opcode=1|Length=61
+[2015-02-05 16:03:15]	INFO	[14] opcode=1
+[2015-02-05 16:03:15]	INFO	onMessage #14: {"cmd":"message","from":14,"channal":0,"data":"444444444444"}
+[2015-02-05 16:03:16]	INFO	NewFrame finish. Opcode=8|Length=2
+[2015-02-05 16:03:16]	INFO	[14] opcode=8
+[2015-02-05 16:03:16]	INFO	server close connection[14]. reason: client active close, code=1001, close_code = 1002
+[2015-02-05 16:03:16]	INFO	Event: client[#14@0] close
+[2015-02-05 16:03:19]	INFO	Event: client[#14@0] connect
+[2015-02-05 16:03:19]	INFO	WebSocket connection #14 is connected
+[2015-02-05 16:03:19]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 16:03:19]	INFO	[14] opcode=1
+[2015-02-05 16:03:19]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 16:03:19]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 16:03:19]	INFO	[14] opcode=1
+[2015-02-05 16:03:19]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 16:03:19]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 16:03:19]	INFO	[14] opcode=1
+[2015-02-05 16:03:19]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 16:04:56]	INFO	NewFrame finish. Opcode=1|Length=57
+[2015-02-05 16:04:56]	INFO	[14] opcode=1
+[2015-02-05 16:04:56]	INFO	onMessage #14: {"cmd":"message","from":14,"channal":0,"data":"erewewwe"}
+[2015-02-05 16:09:13]	INFO	SwooleFramework[#0]. running. on 0.0.0.0:9503
+[2015-02-05 16:09:13]	INFO	SwooleFramework[#1]. running. on 0.0.0.0:9503
+[2015-02-05 16:09:17]	INFO	Event: client[#14@0] connect
+[2015-02-05 16:09:17]	INFO	WebSocket connection #14 is connected
+[2015-02-05 16:09:17]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 16:09:17]	INFO	[14] opcode=1
+[2015-02-05 16:09:17]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 16:09:17]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 16:09:17]	INFO	[14] opcode=1
+[2015-02-05 16:09:17]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 16:09:17]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 16:09:17]	INFO	[14] opcode=1
+[2015-02-05 16:09:17]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 16:09:33]	INFO	NewFrame finish. Opcode=1|Length=60
+[2015-02-05 16:09:33]	INFO	[14] opcode=1
+[2015-02-05 16:09:33]	INFO	onMessage #14: {"cmd":"message","from":14,"channal":0,"data":"11111111111"}
+[2015-02-05 16:09:43]	INFO	NewFrame finish. Opcode=1|Length=54
+[2015-02-05 16:09:43]	INFO	[14] opcode=1
+[2015-02-05 16:09:43]	INFO	onMessage #14: {"cmd":"message","from":14,"channal":0,"data":"22222"}
+[2015-02-05 16:10:04]	INFO	NewFrame finish. Opcode=8|Length=2
+[2015-02-05 16:10:04]	INFO	[14] opcode=8
+[2015-02-05 16:10:04]	INFO	server close connection[14]. reason: client active close, code=1001, close_code = 1002
+[2015-02-05 16:10:04]	INFO	Event: client[#14@0] close
+[2015-02-05 16:10:06]	INFO	Event: client[#14@0] connect
+[2015-02-05 16:10:06]	INFO	WebSocket connection #14 is connected
+[2015-02-05 16:10:06]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 16:10:06]	INFO	[14] opcode=1
+[2015-02-05 16:10:06]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 16:10:06]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 16:10:06]	INFO	[14] opcode=1
+[2015-02-05 16:10:06]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 16:10:06]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 16:10:06]	INFO	[14] opcode=1
+[2015-02-05 16:10:06]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 16:10:11]	INFO	NewFrame finish. Opcode=8|Length=2
+[2015-02-05 16:10:11]	INFO	[14] opcode=8
+[2015-02-05 16:10:11]	INFO	server close connection[14]. reason: client active close, code=1001, close_code = 1002
+[2015-02-05 16:10:11]	INFO	Event: client[#14@0] close
+[2015-02-05 16:10:12]	INFO	Event: client[#14@0] connect
+[2015-02-05 16:10:12]	INFO	WebSocket connection #14 is connected
+[2015-02-05 16:10:12]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 16:10:12]	INFO	[14] opcode=1
+[2015-02-05 16:10:12]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 16:10:12]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 16:10:12]	INFO	[14] opcode=1
+[2015-02-05 16:10:12]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 16:10:12]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 16:10:12]	INFO	[14] opcode=1
+[2015-02-05 16:10:12]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 16:10:18]	INFO	NewFrame finish. Opcode=1|Length=53
+[2015-02-05 16:10:18]	INFO	[14] opcode=1
+[2015-02-05 16:10:18]	INFO	onMessage #14: {"cmd":"message","from":14,"channal":0,"data":"3333"}
+[2015-02-05 16:11:20]	INFO	SwooleFramework[#0]. running. on 0.0.0.0:9503
+[2015-02-05 16:11:20]	INFO	SwooleFramework[#1]. running. on 0.0.0.0:9503
+[2015-02-05 16:11:29]	INFO	Event: client[#14@0] connect
+[2015-02-05 16:11:29]	INFO	WebSocket connection #14 is connected
+[2015-02-05 16:11:29]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 16:11:29]	INFO	[14] opcode=1
+[2015-02-05 16:11:29]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 16:11:29]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 16:11:29]	INFO	[14] opcode=1
+[2015-02-05 16:11:29]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 16:11:29]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 16:11:29]	INFO	[14] opcode=1
+[2015-02-05 16:11:29]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 16:11:32]	INFO	NewFrame finish. Opcode=1|Length=60
+[2015-02-05 16:11:32]	INFO	[14] opcode=1
+[2015-02-05 16:11:32]	INFO	onMessage #14: {"cmd":"message","from":14,"channal":0,"data":"11111111111"}
+[2015-02-05 16:11:39]	INFO	NewFrame finish. Opcode=1|Length=63
+[2015-02-05 16:11:39]	INFO	[14] opcode=1
+[2015-02-05 16:11:39]	INFO	onMessage #14: {"cmd":"message","from":14,"channal":0,"data":"22222222222222"}
+[2015-02-05 16:11:47]	INFO	NewFrame finish. Opcode=1|Length=59
+[2015-02-05 16:11:47]	INFO	[14] opcode=1
+[2015-02-05 16:11:47]	INFO	onMessage #14: {"cmd":"message","from":14,"channal":0,"data":"3333333333"}
+[2015-02-05 16:11:49]	INFO	NewFrame finish. Opcode=8|Length=2
+[2015-02-05 16:11:49]	INFO	[14] opcode=8
+[2015-02-05 16:11:49]	INFO	server close connection[14]. reason: client active close, code=1001, close_code = 1002
+[2015-02-05 16:11:49]	INFO	Event: client[#14@0] close
+[2015-02-05 16:11:51]	INFO	Event: client[#14@0] connect
+[2015-02-05 16:11:51]	INFO	WebSocket connection #14 is connected
+[2015-02-05 16:11:51]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 16:11:51]	INFO	[14] opcode=1
+[2015-02-05 16:11:51]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 16:11:51]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 16:11:51]	INFO	[14] opcode=1
+[2015-02-05 16:11:51]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 16:11:51]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 16:11:51]	INFO	[14] opcode=1
+[2015-02-05 16:11:51]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 16:11:55]	INFO	NewFrame finish. Opcode=8|Length=2
+[2015-02-05 16:11:55]	INFO	[14] opcode=8
+[2015-02-05 16:11:55]	INFO	server close connection[14]. reason: client active close, code=1001, close_code = 1002
+[2015-02-05 16:11:55]	INFO	Event: client[#14@0] close
+[2015-02-05 16:11:57]	INFO	Event: client[#14@0] connect
+[2015-02-05 16:11:57]	INFO	WebSocket connection #14 is connected
+[2015-02-05 16:11:57]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 16:11:57]	INFO	[14] opcode=1
+[2015-02-05 16:11:57]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 16:11:57]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 16:11:57]	INFO	[14] opcode=1
+[2015-02-05 16:11:57]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 16:11:57]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 16:11:57]	INFO	[14] opcode=1
+[2015-02-05 16:11:57]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 16:12:11]	INFO	SwooleFramework[#0]. running. on 0.0.0.0:9503
+[2015-02-05 16:12:11]	INFO	SwooleFramework[#1]. running. on 0.0.0.0:9503
+[2015-02-05 16:12:13]	INFO	Event: client[#14@0] connect
+[2015-02-05 16:12:13]	INFO	WebSocket connection #14 is connected
+[2015-02-05 16:12:13]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 16:12:13]	INFO	[14] opcode=1
+[2015-02-05 16:12:13]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 16:12:13]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 16:12:13]	INFO	[14] opcode=1
+[2015-02-05 16:12:13]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 16:12:13]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 16:12:13]	INFO	[14] opcode=1
+[2015-02-05 16:12:13]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 16:12:26]	INFO	SwooleFramework[#1]. running. on 0.0.0.0:9503
+[2015-02-05 16:12:26]	INFO	SwooleFramework[#0]. running. on 0.0.0.0:9503
+[2015-02-05 16:12:35]	INFO	Event: client[#14@0] connect
+[2015-02-05 16:12:35]	INFO	WebSocket connection #14 is connected
+[2015-02-05 16:12:35]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 16:12:35]	INFO	[14] opcode=1
+[2015-02-05 16:12:35]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 16:12:35]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 16:12:35]	INFO	[14] opcode=1
+[2015-02-05 16:12:35]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 16:12:35]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 16:12:35]	INFO	[14] opcode=1
+[2015-02-05 16:12:35]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 16:12:41]	INFO	NewFrame finish. Opcode=8|Length=2
+[2015-02-05 16:12:41]	INFO	[14] opcode=8
+[2015-02-05 16:12:41]	INFO	server close connection[14]. reason: client active close, code=1001, close_code = 1002
+[2015-02-05 16:12:41]	INFO	Event: client[#14@0] close
+[2015-02-05 16:12:43]	INFO	Event: client[#14@0] connect
+[2015-02-05 16:12:43]	INFO	WebSocket connection #14 is connected
+[2015-02-05 16:12:43]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 16:12:43]	INFO	[14] opcode=1
+[2015-02-05 16:12:43]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 16:12:43]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 16:12:43]	INFO	[14] opcode=1
+[2015-02-05 16:12:43]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 16:12:43]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 16:12:43]	INFO	[14] opcode=1
+[2015-02-05 16:12:43]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 16:12:47]	INFO	NewFrame finish. Opcode=1|Length=58
+[2015-02-05 16:12:47]	INFO	[14] opcode=1
+[2015-02-05 16:12:47]	INFO	onMessage #14: {"cmd":"message","from":14,"channal":0,"data":"111111111"}
+[2015-02-05 16:12:51]	INFO	NewFrame finish. Opcode=1|Length=68
+[2015-02-05 16:12:51]	INFO	[14] opcode=1
+[2015-02-05 16:12:51]	INFO	onMessage #14: {"cmd":"message","from":14,"channal":0,"data":"2222222222222222222"}
+[2015-02-05 16:12:55]	INFO	NewFrame finish. Opcode=8|Length=2
+[2015-02-05 16:12:55]	INFO	[14] opcode=8
+[2015-02-05 16:12:55]	INFO	server close connection[14]. reason: client active close, code=1001, close_code = 1002
+[2015-02-05 16:12:55]	INFO	Event: client[#14@0] close
+[2015-02-05 16:12:57]	INFO	Event: client[#14@0] connect
+[2015-02-05 16:12:57]	INFO	WebSocket connection #14 is connected
+[2015-02-05 16:12:57]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 16:12:57]	INFO	[14] opcode=1
+[2015-02-05 16:12:57]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 16:12:57]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 16:12:57]	INFO	[14] opcode=1
+[2015-02-05 16:12:57]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 16:12:57]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 16:12:57]	INFO	[14] opcode=1
+[2015-02-05 16:12:57]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 16:18:29]	INFO	NewFrame finish. Opcode=8|Length=2
+[2015-02-05 16:18:29]	INFO	[14] opcode=8
+[2015-02-05 16:18:29]	INFO	server close connection[14]. reason: client active close, code=1001, close_code = 1002
+[2015-02-05 16:18:29]	INFO	Event: client[#14@0] close
+[2015-02-05 16:18:31]	INFO	Event: client[#14@0] connect
+[2015-02-05 16:18:31]	INFO	WebSocket connection #14 is connected
+[2015-02-05 16:18:31]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 16:18:31]	INFO	[14] opcode=1
+[2015-02-05 16:18:31]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 16:18:31]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 16:18:31]	INFO	[14] opcode=1
+[2015-02-05 16:18:31]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 16:18:31]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 16:18:31]	INFO	[14] opcode=1
+[2015-02-05 16:18:31]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 16:18:34]	INFO	NewFrame finish. Opcode=1|Length=66
+[2015-02-05 16:18:34]	INFO	[14] opcode=1
+[2015-02-05 16:18:34]	INFO	onMessage #14: {"cmd":"message","from":14,"channal":0,"data":"11111111111111111"}
+[2015-02-05 16:18:36]	INFO	NewFrame finish. Opcode=1|Length=66
+[2015-02-05 16:18:36]	INFO	[14] opcode=1
+[2015-02-05 16:18:36]	INFO	onMessage #14: {"cmd":"message","from":14,"channal":0,"data":"22222222222222222"}
+[2015-02-05 16:18:38]	INFO	NewFrame finish. Opcode=8|Length=2
+[2015-02-05 16:18:38]	INFO	[14] opcode=8
+[2015-02-05 16:18:38]	INFO	server close connection[14]. reason: client active close, code=1001, close_code = 1002
+[2015-02-05 16:18:38]	INFO	Event: client[#14@0] close
+[2015-02-05 16:18:40]	INFO	Event: client[#14@0] connect
+[2015-02-05 16:18:40]	INFO	WebSocket connection #14 is connected
+[2015-02-05 16:18:40]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 16:18:40]	INFO	[14] opcode=1
+[2015-02-05 16:18:40]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 16:18:40]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 16:18:40]	INFO	[14] opcode=1
+[2015-02-05 16:18:40]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 16:18:40]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 16:18:40]	INFO	[14] opcode=1
+[2015-02-05 16:18:40]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 16:24:04]	INFO	SwooleFramework[#0]. running. on 0.0.0.0:9503
+[2015-02-05 16:24:04]	INFO	SwooleFramework[#1]. running. on 0.0.0.0:9503
+[2015-02-05 16:24:06]	INFO	Event: client[#14@0] connect
+[2015-02-05 16:24:06]	INFO	WebSocket connection #14 is connected
+[2015-02-05 16:24:06]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 16:24:06]	INFO	[14] opcode=1
+[2015-02-05 16:24:06]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 16:24:06]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 16:24:06]	INFO	[14] opcode=1
+[2015-02-05 16:24:06]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 16:24:06]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 16:24:06]	INFO	[14] opcode=1
+[2015-02-05 16:24:06]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 16:24:18]	INFO	NewFrame finish. Opcode=8|Length=2
+[2015-02-05 16:24:18]	INFO	[14] opcode=8
+[2015-02-05 16:24:18]	INFO	server close connection[14]. reason: client active close, code=1001, close_code = 1002
+[2015-02-05 16:24:18]	INFO	Event: client[#14@0] close
+[2015-02-05 16:24:20]	INFO	Event: client[#14@0] connect
+[2015-02-05 16:24:20]	INFO	WebSocket connection #14 is connected
+[2015-02-05 16:24:20]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 16:24:20]	INFO	[14] opcode=1
+[2015-02-05 16:24:20]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 16:24:20]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 16:24:20]	INFO	[14] opcode=1
+[2015-02-05 16:24:20]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 16:24:20]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 16:24:20]	INFO	[14] opcode=1
+[2015-02-05 16:24:20]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 16:24:37]	INFO	NewFrame finish. Opcode=1|Length=59
+[2015-02-05 16:24:37]	INFO	[14] opcode=1
+[2015-02-05 16:24:37]	INFO	onMessage #14: {"cmd":"message","from":14,"channal":0,"data":"sdfdsafsda"}
+[2015-02-05 16:24:45]	INFO	NewFrame finish. Opcode=8|Length=2
+[2015-02-05 16:24:45]	INFO	[14] opcode=8
+[2015-02-05 16:24:45]	INFO	server close connection[14]. reason: client active close, code=1001, close_code = 1002
+[2015-02-05 16:24:45]	INFO	Event: client[#14@0] close
+[2015-02-05 16:24:48]	INFO	Event: client[#14@0] connect
+[2015-02-05 16:24:48]	INFO	WebSocket connection #14 is connected
+[2015-02-05 16:24:48]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 16:24:48]	INFO	[14] opcode=1
+[2015-02-05 16:24:48]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 16:24:48]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 16:24:48]	INFO	[14] opcode=1
+[2015-02-05 16:24:48]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 16:24:48]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 16:24:48]	INFO	[14] opcode=1
+[2015-02-05 16:24:48]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 16:28:16]	INFO	SwooleFramework[#0]. running. on 0.0.0.0:9503
+[2015-02-05 16:28:16]	INFO	SwooleFramework[#1]. running. on 0.0.0.0:9503
+[2015-02-05 16:28:18]	INFO	Event: client[#14@0] connect
+[2015-02-05 16:28:18]	INFO	WebSocket connection #14 is connected
+[2015-02-05 16:28:18]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 16:28:18]	INFO	[14] opcode=1
+[2015-02-05 16:28:18]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 16:28:18]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 16:28:18]	INFO	[14] opcode=1
+[2015-02-05 16:28:18]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 16:28:18]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 16:28:18]	INFO	[14] opcode=1
+[2015-02-05 16:28:18]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 16:28:24]	INFO	NewFrame finish. Opcode=1|Length=61
+[2015-02-05 16:28:24]	INFO	[14] opcode=1
+[2015-02-05 16:28:24]	INFO	onMessage #14: {"cmd":"message","from":14,"channal":0,"data":"111111111111"}
+[2015-02-05 16:28:36]	INFO	NewFrame finish. Opcode=8|Length=2
+[2015-02-05 16:28:36]	INFO	[14] opcode=8
+[2015-02-05 16:28:36]	INFO	server close connection[14]. reason: client active close, code=1001, close_code = 1002
+[2015-02-05 16:28:36]	INFO	Event: client[#14@0] close
+[2015-02-05 16:28:38]	INFO	Event: client[#14@0] connect
+[2015-02-05 16:28:38]	INFO	WebSocket connection #14 is connected
+[2015-02-05 16:28:38]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 16:28:38]	INFO	[14] opcode=1
+[2015-02-05 16:28:38]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 16:28:38]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 16:28:38]	INFO	[14] opcode=1
+[2015-02-05 16:28:38]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 16:28:38]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 16:28:38]	INFO	[14] opcode=1
+[2015-02-05 16:28:38]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 16:29:33]	INFO	NewFrame finish. Opcode=1|Length=64
+[2015-02-05 16:29:33]	INFO	[14] opcode=1
+[2015-02-05 16:29:33]	INFO	onMessage #14: {"cmd":"message","from":14,"channal":0,"data":"222222222222222"}
+[2015-02-05 16:30:10]	INFO	NewFrame finish. Opcode=8|Length=2
+[2015-02-05 16:30:10]	INFO	[14] opcode=8
+[2015-02-05 16:30:10]	INFO	server close connection[14]. reason: client active close, code=1001, close_code = 1002
+[2015-02-05 16:30:10]	INFO	Event: client[#14@0] close
+[2015-02-05 16:30:13]	INFO	Event: client[#14@0] connect
+[2015-02-05 16:30:13]	INFO	WebSocket connection #14 is connected
+[2015-02-05 16:30:13]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 16:30:13]	INFO	[14] opcode=1
+[2015-02-05 16:30:13]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 16:30:13]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 16:30:13]	INFO	[14] opcode=1
+[2015-02-05 16:30:13]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 16:30:13]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 16:30:13]	INFO	[14] opcode=1
+[2015-02-05 16:30:13]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 16:45:05]	INFO	SwooleFramework[#0]. running. on 0.0.0.0:9503
+[2015-02-05 16:45:05]	INFO	SwooleFramework[#1]. running. on 0.0.0.0:9503
+[2015-02-05 16:45:08]	INFO	Event: client[#14@0] connect
+[2015-02-05 16:45:08]	INFO	WebSocket connection #14 is connected
+[2015-02-05 16:45:08]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 16:45:08]	INFO	[14] opcode=1
+[2015-02-05 16:45:08]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 16:45:08]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 16:45:08]	INFO	[14] opcode=1
+[2015-02-05 16:45:08]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 16:45:08]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 16:45:08]	INFO	[14] opcode=1
+[2015-02-05 16:45:08]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 16:45:12]	INFO	NewFrame finish. Opcode=1|Length=53
+[2015-02-05 16:45:12]	INFO	[14] opcode=1
+[2015-02-05 16:45:12]	INFO	onMessage #14: {"cmd":"message","from":14,"channal":0,"data":"1111"}
+[2015-02-05 16:45:14]	INFO	NewFrame finish. Opcode=1|Length=52
+[2015-02-05 16:45:14]	INFO	[14] opcode=1
+[2015-02-05 16:45:14]	INFO	onMessage #14: {"cmd":"message","from":14,"channal":0,"data":"222"}
+[2015-02-05 16:45:18]	INFO	NewFrame finish. Opcode=8|Length=2
+[2015-02-05 16:45:18]	INFO	[14] opcode=8
+[2015-02-05 16:45:18]	INFO	server close connection[14]. reason: client active close, code=1001, close_code = 1002
+[2015-02-05 16:45:18]	INFO	Event: client[#14@0] close
+[2015-02-05 16:45:20]	INFO	Event: client[#14@0] connect
+[2015-02-05 16:45:20]	INFO	WebSocket connection #14 is connected
+[2015-02-05 16:45:20]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 16:45:20]	INFO	[14] opcode=1
+[2015-02-05 16:45:20]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 16:45:20]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 16:45:20]	INFO	[14] opcode=1
+[2015-02-05 16:45:20]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 16:45:20]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 16:45:20]	INFO	[14] opcode=1
+[2015-02-05 16:45:20]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 16:45:32]	INFO	NewFrame finish. Opcode=8|Length=2
+[2015-02-05 16:45:32]	INFO	[14] opcode=8
+[2015-02-05 16:45:32]	INFO	server close connection[14]. reason: client active close, code=1001, close_code = 1002
+[2015-02-05 16:45:32]	INFO	Event: client[#14@0] close
+[2015-02-05 16:45:34]	INFO	Event: client[#14@0] connect
+[2015-02-05 16:45:34]	INFO	WebSocket connection #14 is connected
+[2015-02-05 16:45:34]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 16:45:34]	INFO	[14] opcode=1
+[2015-02-05 16:45:34]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 16:45:34]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 16:45:34]	INFO	[14] opcode=1
+[2015-02-05 16:45:34]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 16:45:34]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 16:45:34]	INFO	[14] opcode=1
+[2015-02-05 16:45:34]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 16:45:40]	INFO	NewFrame finish. Opcode=1|Length=56
+[2015-02-05 16:45:40]	INFO	[14] opcode=1
+[2015-02-05 16:45:40]	INFO	onMessage #14: {"cmd":"message","from":14,"channal":0,"data":"3233232"}
+[2015-02-05 16:45:47]	INFO	NewFrame finish. Opcode=8|Length=2
+[2015-02-05 16:45:47]	INFO	[14] opcode=8
+[2015-02-05 16:45:47]	INFO	server close connection[14]. reason: client active close, code=1001, close_code = 1002
+[2015-02-05 16:45:47]	INFO	Event: client[#14@0] close
+[2015-02-05 16:45:49]	INFO	Event: client[#14@0] connect
+[2015-02-05 16:45:49]	INFO	WebSocket connection #14 is connected
+[2015-02-05 16:45:49]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 16:45:49]	INFO	[14] opcode=1
+[2015-02-05 16:45:49]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 16:45:49]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 16:45:49]	INFO	[14] opcode=1
+[2015-02-05 16:45:49]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 16:45:49]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 16:45:49]	INFO	[14] opcode=1
+[2015-02-05 16:45:49]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 16:47:00]	INFO	NewFrame finish. Opcode=1|Length=57
+[2015-02-05 16:47:00]	INFO	[14] opcode=1
+[2015-02-05 16:47:00]	INFO	onMessage #14: {"cmd":"message","from":14,"channal":0,"data":"32323232"}
+[2015-02-05 16:47:15]	INFO	NewFrame finish. Opcode=1|Length=55
+[2015-02-05 16:47:15]	INFO	[14] opcode=1
+[2015-02-05 16:47:15]	INFO	onMessage #14: {"cmd":"message","from":14,"channal":0,"data":"dsdsds"}
+[2015-02-05 16:47:24]	INFO	NewFrame finish. Opcode=8|Length=2
+[2015-02-05 16:47:24]	INFO	[14] opcode=8
+[2015-02-05 16:47:24]	INFO	server close connection[14]. reason: client active close, code=1001, close_code = 1002
+[2015-02-05 16:47:24]	INFO	Event: client[#14@0] close
+[2015-02-05 16:47:26]	INFO	Event: client[#14@0] connect
+[2015-02-05 16:47:26]	INFO	WebSocket connection #14 is connected
+[2015-02-05 16:47:26]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 16:47:26]	INFO	[14] opcode=1
+[2015-02-05 16:47:26]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 16:47:26]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 16:47:26]	INFO	[14] opcode=1
+[2015-02-05 16:47:26]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 16:47:26]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 16:47:26]	INFO	[14] opcode=1
+[2015-02-05 16:47:26]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 16:50:27]	INFO	SwooleFramework[#0]. running. on 0.0.0.0:9503
+[2015-02-05 16:50:27]	INFO	SwooleFramework[#1]. running. on 0.0.0.0:9503
+[2015-02-05 16:50:29]	INFO	Event: client[#14@0] connect
+[2015-02-05 16:50:29]	INFO	WebSocket connection #14 is connected
+[2015-02-05 16:50:29]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 16:50:29]	INFO	[14] opcode=1
+[2015-02-05 16:50:29]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 16:50:29]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 16:50:29]	INFO	[14] opcode=1
+[2015-02-05 16:50:29]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 16:50:29]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 16:50:29]	INFO	[14] opcode=1
+[2015-02-05 16:50:29]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 16:50:32]	INFO	NewFrame finish. Opcode=1|Length=53
+[2015-02-05 16:50:32]	INFO	[14] opcode=1
+[2015-02-05 16:50:32]	INFO	onMessage #14: {"cmd":"message","from":14,"channal":0,"data":"1111"}
+[2015-02-05 16:50:34]	INFO	NewFrame finish. Opcode=8|Length=2
+[2015-02-05 16:50:34]	INFO	[14] opcode=8
+[2015-02-05 16:50:34]	INFO	server close connection[14]. reason: client active close, code=1001, close_code = 1002
+[2015-02-05 16:50:34]	INFO	Event: client[#14@0] close
+[2015-02-05 16:50:37]	INFO	Event: client[#14@0] connect
+[2015-02-05 16:50:37]	INFO	WebSocket connection #14 is connected
+[2015-02-05 16:50:37]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 16:50:37]	INFO	[14] opcode=1
+[2015-02-05 16:50:37]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 16:50:37]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 16:50:37]	INFO	[14] opcode=1
+[2015-02-05 16:50:37]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 16:50:37]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 16:50:37]	INFO	[14] opcode=1
+[2015-02-05 16:50:37]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 16:50:56]	INFO	NewFrame finish. Opcode=8|Length=2
+[2015-02-05 16:50:56]	INFO	[14] opcode=8
+[2015-02-05 16:50:56]	INFO	server close connection[14]. reason: client active close, code=1001, close_code = 1002
+[2015-02-05 16:50:56]	INFO	Event: client[#14@0] close
+[2015-02-05 16:50:58]	INFO	Event: client[#14@0] connect
+[2015-02-05 16:50:58]	INFO	WebSocket connection #14 is connected
+[2015-02-05 16:50:58]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 16:50:58]	INFO	[14] opcode=1
+[2015-02-05 16:50:58]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 16:50:58]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 16:50:58]	INFO	[14] opcode=1
+[2015-02-05 16:50:58]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 16:50:58]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 16:50:58]	INFO	[14] opcode=1
+[2015-02-05 16:50:58]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 16:51:01]	INFO	NewFrame finish. Opcode=1|Length=54
+[2015-02-05 16:51:01]	INFO	[14] opcode=1
+[2015-02-05 16:51:01]	INFO	onMessage #14: {"cmd":"message","from":14,"channal":0,"data":"22222"}
+[2015-02-05 16:51:03]	INFO	NewFrame finish. Opcode=8|Length=2
+[2015-02-05 16:51:03]	INFO	[14] opcode=8
+[2015-02-05 16:51:03]	INFO	server close connection[14]. reason: client active close, code=1001, close_code = 1002
+[2015-02-05 16:51:03]	INFO	Event: client[#14@0] close
+[2015-02-05 16:51:05]	INFO	Event: client[#14@0] connect
+[2015-02-05 16:51:05]	INFO	WebSocket connection #14 is connected
+[2015-02-05 16:51:05]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 16:51:05]	INFO	[14] opcode=1
+[2015-02-05 16:51:05]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 16:51:05]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 16:51:05]	INFO	[14] opcode=1
+[2015-02-05 16:51:05]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 16:51:05]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 16:51:05]	INFO	[14] opcode=1
+[2015-02-05 16:51:05]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 16:51:26]	INFO	NewFrame finish. Opcode=8|Length=2
+[2015-02-05 16:51:26]	INFO	[14] opcode=8
+[2015-02-05 16:51:26]	INFO	server close connection[14]. reason: client active close, code=1001, close_code = 1002
+[2015-02-05 16:51:26]	INFO	Event: client[#14@0] close
+[2015-02-05 16:51:31]	INFO	SwooleFramework[#0]. running. on 0.0.0.0:9503
+[2015-02-05 16:51:31]	INFO	SwooleFramework[#1]. running. on 0.0.0.0:9503
+[2015-02-05 16:51:33]	INFO	Event: client[#14@0] connect
+[2015-02-05 16:51:33]	INFO	WebSocket connection #14 is connected
+[2015-02-05 16:51:33]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 16:51:33]	INFO	[14] opcode=1
+[2015-02-05 16:51:33]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 16:51:33]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 16:51:33]	INFO	[14] opcode=1
+[2015-02-05 16:51:33]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 16:51:33]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 16:51:33]	INFO	[14] opcode=1
+[2015-02-05 16:51:33]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 16:51:37]	INFO	NewFrame finish. Opcode=1|Length=53
+[2015-02-05 16:51:37]	INFO	[14] opcode=1
+[2015-02-05 16:51:37]	INFO	onMessage #14: {"cmd":"message","from":14,"channal":0,"data":"3333"}
+[2015-02-05 16:51:39]	INFO	NewFrame finish. Opcode=8|Length=2
+[2015-02-05 16:51:39]	INFO	[14] opcode=8
+[2015-02-05 16:51:39]	INFO	server close connection[14]. reason: client active close, code=1001, close_code = 1002
+[2015-02-05 16:51:39]	INFO	Event: client[#14@0] close
+[2015-02-05 16:51:40]	INFO	Event: client[#14@0] connect
+[2015-02-05 16:51:40]	INFO	WebSocket connection #14 is connected
+[2015-02-05 16:51:40]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 16:51:40]	INFO	[14] opcode=1
+[2015-02-05 16:51:40]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 16:51:40]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 16:51:40]	INFO	[14] opcode=1
+[2015-02-05 16:51:40]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 16:51:40]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 16:51:40]	INFO	[14] opcode=1
+[2015-02-05 16:51:40]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 16:54:21]	INFO	SwooleFramework[#0]. running. on 0.0.0.0:9503
+[2015-02-05 16:54:21]	INFO	SwooleFramework[#1]. running. on 0.0.0.0:9503
+[2015-02-05 16:54:23]	INFO	Event: client[#14@0] connect
+[2015-02-05 16:54:23]	INFO	WebSocket connection #14 is connected
+[2015-02-05 16:54:23]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 16:54:23]	INFO	[14] opcode=1
+[2015-02-05 16:54:23]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 16:54:23]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 16:54:23]	INFO	[14] opcode=1
+[2015-02-05 16:54:23]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 16:54:23]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 16:54:23]	INFO	[14] opcode=1
+[2015-02-05 16:54:23]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 16:54:26]	INFO	NewFrame finish. Opcode=1|Length=58
+[2015-02-05 16:54:26]	INFO	[14] opcode=1
+[2015-02-05 16:54:26]	INFO	onMessage #14: {"cmd":"message","from":14,"channal":0,"data":"444444444"}
+[2015-02-05 16:54:28]	INFO	NewFrame finish. Opcode=8|Length=2
+[2015-02-05 16:54:28]	INFO	[14] opcode=8
+[2015-02-05 16:54:28]	INFO	server close connection[14]. reason: client active close, code=1001, close_code = 1002
+[2015-02-05 16:54:28]	INFO	Event: client[#14@0] close
+[2015-02-05 16:54:29]	INFO	Event: client[#14@0] connect
+[2015-02-05 16:54:29]	INFO	WebSocket connection #14 is connected
+[2015-02-05 16:54:29]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 16:54:29]	INFO	[14] opcode=1
+[2015-02-05 16:54:29]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 16:54:29]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 16:54:29]	INFO	[14] opcode=1
+[2015-02-05 16:54:29]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 16:54:29]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 16:54:29]	INFO	[14] opcode=1
+[2015-02-05 16:54:29]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 16:54:33]	INFO	NewFrame finish. Opcode=1|Length=66
+[2015-02-05 16:54:33]	INFO	[14] opcode=1
+[2015-02-05 16:54:33]	INFO	onMessage #14: {"cmd":"message","from":14,"channal":0,"data":"55555555555555555"}
+[2015-02-05 16:54:37]	INFO	NewFrame finish. Opcode=1|Length=63
+[2015-02-05 16:54:37]	INFO	[14] opcode=1
+[2015-02-05 16:54:37]	INFO	onMessage #14: {"cmd":"message","from":14,"channal":0,"data":"66666666666666"}
+[2015-02-05 16:54:38]	INFO	NewFrame finish. Opcode=8|Length=2
+[2015-02-05 16:54:38]	INFO	[14] opcode=8
+[2015-02-05 16:54:38]	INFO	server close connection[14]. reason: client active close, code=1001, close_code = 1002
+[2015-02-05 16:54:38]	INFO	Event: client[#14@0] close
+[2015-02-05 16:54:40]	INFO	Event: client[#14@0] connect
+[2015-02-05 16:54:40]	INFO	WebSocket connection #14 is connected
+[2015-02-05 16:54:40]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 16:54:40]	INFO	[14] opcode=1
+[2015-02-05 16:54:40]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 16:54:40]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 16:54:40]	INFO	[14] opcode=1
+[2015-02-05 16:54:40]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 16:54:40]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 16:54:40]	INFO	[14] opcode=1
+[2015-02-05 16:54:40]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 16:55:07]	INFO	NewFrame finish. Opcode=8|Length=2
+[2015-02-05 16:55:07]	INFO	[14] opcode=8
+[2015-02-05 16:55:07]	INFO	server close connection[14]. reason: client active close, code=1001, close_code = 1002
+[2015-02-05 16:55:07]	INFO	Event: client[#14@0] close
+[2015-02-05 16:55:09]	INFO	Event: client[#14@0] connect
+[2015-02-05 16:55:09]	INFO	WebSocket connection #14 is connected
+[2015-02-05 16:55:09]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 16:55:09]	INFO	[14] opcode=1
+[2015-02-05 16:55:09]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 16:55:09]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 16:55:09]	INFO	[14] opcode=1
+[2015-02-05 16:55:09]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 16:55:09]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 16:55:09]	INFO	[14] opcode=1
+[2015-02-05 16:55:09]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 16:55:11]	INFO	NewFrame finish. Opcode=8|Length=2
+[2015-02-05 16:55:11]	INFO	[14] opcode=8
+[2015-02-05 16:55:11]	INFO	server close connection[14]. reason: client active close, code=1001, close_code = 1002
+[2015-02-05 16:55:11]	INFO	Event: client[#14@0] close
+[2015-02-05 16:55:13]	INFO	Event: client[#14@0] connect
+[2015-02-05 16:55:13]	INFO	WebSocket connection #14 is connected
+[2015-02-05 16:55:13]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 16:55:13]	INFO	[14] opcode=1
+[2015-02-05 16:55:13]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 16:55:13]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 16:55:13]	INFO	[14] opcode=1
+[2015-02-05 16:55:13]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 16:55:13]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 16:55:13]	INFO	[14] opcode=1
+[2015-02-05 16:55:13]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 16:55:18]	INFO	NewFrame finish. Opcode=8|Length=2
+[2015-02-05 16:55:18]	INFO	[14] opcode=8
+[2015-02-05 16:55:18]	INFO	server close connection[14]. reason: client active close, code=1001, close_code = 1002
+[2015-02-05 16:55:18]	INFO	Event: client[#14@0] close
+[2015-02-05 16:55:20]	INFO	Event: client[#14@0] connect
+[2015-02-05 16:55:20]	INFO	WebSocket connection #14 is connected
+[2015-02-05 16:55:20]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 16:55:20]	INFO	[14] opcode=1
+[2015-02-05 16:55:20]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 16:55:20]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 16:55:20]	INFO	[14] opcode=1
+[2015-02-05 16:55:20]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 16:55:20]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 16:55:20]	INFO	[14] opcode=1
+[2015-02-05 16:55:20]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 16:55:21]	INFO	NewFrame finish. Opcode=1|Length=57
+[2015-02-05 16:55:21]	INFO	[14] opcode=1
+[2015-02-05 16:55:21]	INFO	onMessage #14: {"cmd":"message","from":14,"channal":0,"data":"sdafsdaf"}
+[2015-02-05 16:55:23]	INFO	NewFrame finish. Opcode=1|Length=57
+[2015-02-05 16:55:23]	INFO	[14] opcode=1
+[2015-02-05 16:55:23]	INFO	onMessage #14: {"cmd":"message","from":14,"channal":0,"data":"sdafsadf"}
+[2015-02-05 16:55:24]	INFO	NewFrame finish. Opcode=1|Length=59
+[2015-02-05 16:55:24]	INFO	[14] opcode=1
+[2015-02-05 16:55:24]	INFO	onMessage #14: {"cmd":"message","from":14,"channal":0,"data":"sadfasdfsd"}
+[2015-02-05 16:55:26]	INFO	NewFrame finish. Opcode=1|Length=57
+[2015-02-05 16:55:26]	INFO	[14] opcode=1
+[2015-02-05 16:55:26]	INFO	onMessage #14: {"cmd":"message","from":14,"channal":0,"data":"sdfsdfds"}
+[2015-02-05 16:55:27]	INFO	NewFrame finish. Opcode=1|Length=56
+[2015-02-05 16:55:27]	INFO	[14] opcode=1
+[2015-02-05 16:55:27]	INFO	onMessage #14: {"cmd":"message","from":14,"channal":0,"data":"sdfasdf"}
+[2015-02-05 16:55:28]	INFO	NewFrame finish. Opcode=1|Length=55
+[2015-02-05 16:55:28]	INFO	[14] opcode=1
+[2015-02-05 16:55:28]	INFO	onMessage #14: {"cmd":"message","from":14,"channal":0,"data":"sdfsdf"}
+[2015-02-05 16:55:29]	INFO	NewFrame finish. Opcode=1|Length=56
+[2015-02-05 16:55:29]	INFO	[14] opcode=1
+[2015-02-05 16:55:29]	INFO	onMessage #14: {"cmd":"message","from":14,"channal":0,"data":"dsfsdfd"}
+[2015-02-05 16:55:31]	INFO	NewFrame finish. Opcode=1|Length=58
+[2015-02-05 16:55:31]	INFO	[14] opcode=1
+[2015-02-05 16:55:31]	INFO	onMessage #14: {"cmd":"message","from":14,"channal":0,"data":"sdfdsfsdf"}
+[2015-02-05 16:55:32]	INFO	NewFrame finish. Opcode=1|Length=56
+[2015-02-05 16:55:32]	INFO	[14] opcode=1
+[2015-02-05 16:55:32]	INFO	onMessage #14: {"cmd":"message","from":14,"channal":0,"data":"sdfasdf"}
+[2015-02-05 16:55:33]	INFO	NewFrame finish. Opcode=8|Length=2
+[2015-02-05 16:55:33]	INFO	[14] opcode=8
+[2015-02-05 16:55:33]	INFO	server close connection[14]. reason: client active close, code=1001, close_code = 1002
+[2015-02-05 16:55:33]	INFO	Event: client[#14@0] close
+[2015-02-05 16:55:35]	INFO	Event: client[#14@0] connect
+[2015-02-05 16:55:35]	INFO	WebSocket connection #14 is connected
+[2015-02-05 16:55:35]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 16:55:35]	INFO	[14] opcode=1
+[2015-02-05 16:55:35]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 16:55:35]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 16:55:35]	INFO	[14] opcode=1
+[2015-02-05 16:55:35]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 16:55:35]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 16:55:35]	INFO	[14] opcode=1
+[2015-02-05 16:55:35]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 16:55:46]	INFO	NewFrame finish. Opcode=1|Length=61
+[2015-02-05 16:55:46]	INFO	[14] opcode=1
+[2015-02-05 16:55:46]	INFO	onMessage #14: {"cmd":"message","from":14,"channal":0,"data":"sdfsdfsadfsd"}
+[2015-02-05 16:55:51]	INFO	NewFrame finish. Opcode=1|Length=76
+[2015-02-05 16:55:51]	INFO	[14] opcode=1
+[2015-02-05 16:55:51]	INFO	onMessage #14: {"cmd":"message","from":14,"channal":0,"data":"sdf的萨发送大夫的萨"}
+[2015-02-05 16:55:53]	INFO	NewFrame finish. Opcode=1|Length=67
+[2015-02-05 16:55:53]	INFO	[14] opcode=1
+[2015-02-05 16:55:53]	INFO	onMessage #14: {"cmd":"message","from":14,"channal":0,"data":"的萨发送大夫"}
+[2015-02-05 16:55:54]	INFO	NewFrame finish. Opcode=8|Length=2
+[2015-02-05 16:55:54]	INFO	[14] opcode=8
+[2015-02-05 16:55:54]	INFO	server close connection[14]. reason: client active close, code=1001, close_code = 1002
+[2015-02-05 16:55:54]	INFO	Event: client[#14@0] close
+[2015-02-05 16:55:56]	INFO	Event: client[#14@0] connect
+[2015-02-05 16:55:56]	INFO	WebSocket connection #14 is connected
+[2015-02-05 16:55:56]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 16:55:56]	INFO	[14] opcode=1
+[2015-02-05 16:55:56]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 16:55:56]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 16:55:56]	INFO	[14] opcode=1
+[2015-02-05 16:55:56]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 16:55:56]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 16:55:56]	INFO	[14] opcode=1
+[2015-02-05 16:55:56]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 17:00:54]	INFO	NewFrame finish. Opcode=1|Length=67
+[2015-02-05 17:00:54]	INFO	[14] opcode=1
+[2015-02-05 17:00:54]	INFO	onMessage #14: {"cmd":"message","from":14,"channal":0,"data":"寺的发送大夫"}
+[2015-02-05 17:00:58]	INFO	NewFrame finish. Opcode=1|Length=58
+[2015-02-05 17:00:58]	INFO	[14] opcode=1
+[2015-02-05 17:00:58]	INFO	onMessage #14: {"cmd":"message","from":14,"channal":0,"data":"223323232"}
+[2015-02-05 17:01:00]	INFO	NewFrame finish. Opcode=8|Length=2
+[2015-02-05 17:01:00]	INFO	[14] opcode=8
+[2015-02-05 17:01:00]	INFO	server close connection[14]. reason: client active close, code=1001, close_code = 1002
+[2015-02-05 17:01:00]	INFO	Event: client[#14@0] close
+[2015-02-05 17:01:02]	INFO	Event: client[#14@0] connect
+[2015-02-05 17:01:02]	INFO	WebSocket connection #14 is connected
+[2015-02-05 17:01:02]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-05 17:01:02]	INFO	[14] opcode=1
+[2015-02-05 17:01:02]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-05 17:01:02]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-05 17:01:02]	INFO	[14] opcode=1
+[2015-02-05 17:01:02]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-05 17:01:02]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-05 17:01:02]	INFO	[14] opcode=1
+[2015-02-05 17:01:02]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-05 17:03:57]	INFO	NewFrame finish. Opcode=8|Length=2
+[2015-02-05 17:03:57]	INFO	[14] opcode=8
+[2015-02-05 17:03:57]	INFO	server close connection[14]. reason: client active close, code=1001, close_code = 1002
+[2015-02-05 17:03:57]	INFO	Event: client[#14@0] close
+[2015-02-05 18:35:45]	INFO	SwooleFramework shutdown
+[2015-02-05 18:35:45]	INFO	SwooleFramework shutdown
+[2015-02-27 11:07:46]	INFO	SwooleFramework[#1]. running. on 0.0.0.0:9503
+[2015-02-27 11:07:46]	INFO	SwooleFramework[#0]. running. on 0.0.0.0:9503
+[2015-02-27 11:07:48]	INFO	Event: client[#14@0] connect
+[2015-02-27 11:07:48]	INFO	WebSocket connection #14 is connected
+[2015-02-27 11:07:48]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-27 11:07:48]	INFO	[14] opcode=1
+[2015-02-27 11:07:48]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-27 11:07:48]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-27 11:07:48]	INFO	[14] opcode=1
+[2015-02-27 11:07:48]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-27 11:07:48]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-27 11:07:48]	INFO	[14] opcode=1
+[2015-02-27 11:07:48]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-27 11:08:02]	INFO	NewFrame finish. Opcode=1|Length=56
+[2015-02-27 11:08:02]	INFO	[14] opcode=1
+[2015-02-27 11:08:02]	INFO	onMessage #14: {"cmd":"message","from":14,"channal":0,"data":"2233232"}
+[2015-02-27 11:08:03]	INFO	NewFrame finish. Opcode=8|Length=2
+[2015-02-27 11:08:03]	INFO	[14] opcode=8
+[2015-02-27 11:08:03]	INFO	server close connection[14]. reason: client active close, code=1001, close_code = 1002
+[2015-02-27 11:08:03]	INFO	Event: client[#14@0] close
+[2015-02-27 11:08:05]	INFO	Event: client[#14@0] connect
+[2015-02-27 11:08:05]	INFO	WebSocket connection #14 is connected
+[2015-02-27 11:08:05]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-27 11:08:05]	INFO	[14] opcode=1
+[2015-02-27 11:08:05]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-27 11:08:05]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-27 11:08:05]	INFO	[14] opcode=1
+[2015-02-27 11:08:05]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-27 11:08:05]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-27 11:08:05]	INFO	[14] opcode=1
+[2015-02-27 11:08:05]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2015-02-27 11:08:41]	INFO	SwooleFramework[#1]. running. on 0.0.0.0:9503
+[2015-02-27 11:08:41]	INFO	SwooleFramework[#0]. running. on 0.0.0.0:9503
+[2015-02-27 11:08:45]	INFO	Event: client[#14@0] connect
+[2015-02-27 11:08:45]	INFO	WebSocket connection #14 is connected
+[2015-02-27 11:08:45]	INFO	NewFrame finish. Opcode=1|Length=106
+[2015-02-27 11:08:45]	INFO	[14] opcode=1
+[2015-02-27 11:08:45]	INFO	onMessage #14: {"cmd":"login","name":"远古神龙","avatar":"http://bbs.womem.cn/uc_server/avatar.php?uid=2&size=small"}
+[2015-02-27 11:08:45]	INFO	NewFrame finish. Opcode=1|Length=19
+[2015-02-27 11:08:45]	INFO	[14] opcode=1
+[2015-02-27 11:08:45]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2015-02-27 11:08:45]	INFO	NewFrame finish. Opcode=1|Length=20
+[2015-02-27 11:08:45]	INFO	[14] opcode=1
+[2015-02-27 11:08:45]	INFO	onMessage #14: {"cmd":"getHistory"}

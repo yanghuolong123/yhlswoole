@@ -1,0 +1,6 @@
+[2015-01-30 16:37:50 #11402.0]	WARN	swReactorThread_send: Connection[fd=15#0] is not active.
+[2015-01-30 16:37:50 #11406.0]	WARN	swFactoryProcess_end: The connection[15] is closing.
+[2015-01-30 17:57:33 #11404.0]	WARN	swSignal_callback: signal[1] callback is null.
+[2015-01-30 17:57:57 #11402.0]	NOTICE	Server is shutdown now.
+[2015-02-05 18:35:27 #7588.0]	WARN	swSignal_callback: signal[1] callback is null.
+[2015-02-05 18:35:45 #7586.0]	NOTICE	Server is shutdown now.
