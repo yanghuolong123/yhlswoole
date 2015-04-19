@@ -1,6 +1,6 @@
 <?php
 
-define('MONGO_HOST', '192.168.100.233');
+define('MONGO_HOST', '127.0.0.1');
 
 define('WEBPATH', __DIR__);
 require __DIR__ . '/../framework/libs/lib_config.php';
@@ -11,7 +11,7 @@ $appSer = new App\Server();
 $appSer->loadSetting(__DIR__ . '/swoole.ini');
 $appSer->setLogger(new Swoole\Log\EchoLog(TRUE));
 
-$server = Swoole\Network\Server::autoCreate('0.0.0.0', 9503);
+$server = Swoole\Network\Server::autoCreate('0.0.0.0', 9500);
 $server->setProtocol($appSer);
 $server->daemonize();
 $server->run([
