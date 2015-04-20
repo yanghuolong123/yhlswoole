@@ -119,7 +119,7 @@ class Server extends Swoole\Protocol\WebSocket {
             $this->sendJson($msg['to'], $resMsg);
         }
 
-        $data['user'] = $this->store->getUser($client_id);
+        $data['user'] = $this->store->getUser($resMsg['uid']);
         $data['msg'] = $msg;
         $data['time'] = time();
         $this->store->saveMsg($data);
