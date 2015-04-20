@@ -41,7 +41,7 @@ class Mongo {
     }
     
     public function getUser($userid) {
-        $user = $this->db->selectCollection('im_online')->findOne(array('client_id'=>$userid));
+        $user = $this->db->selectCollection('im_online')->findOne(array('uid'=>$userid));
         
         return $user['info'];
     }
