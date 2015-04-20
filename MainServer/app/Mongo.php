@@ -22,9 +22,9 @@ class Mongo {
 
     public function getOnlineUsers() {
         $users = [];
-        $onlineusers = iterator_to_array($this->db->selectCollection('im_online')->find(array(), array('info.client_id' => TRUE)), false);
+        $onlineusers = iterator_to_array($this->db->selectCollection('im_online')->find(array(), array('uid' => TRUE)), false);
         foreach ($onlineusers as $online) {
-            $users[] = $online['info']['client_id'];
+            $users[] = $online['uid'];
         }
         
         return $users;
