@@ -32,7 +32,7 @@ class Mongo {
 
     public function getUsers($users = []) {
         $ret = [];
-        $users = iterator_to_array($this->db->selectCollection('im_online')->find(array('client_id' => array('$in' => $users))), false);
+        $users = iterator_to_array($this->db->selectCollection('im_online')->find(array('uid' => array('$in' => $users))), false);
         foreach ($users as $user) {
             $ret[] = $user['info'];
         }
