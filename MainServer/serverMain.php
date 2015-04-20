@@ -18,4 +18,6 @@ $server->run([
     'worker_num' => 1,
     'max_request' => 0,
         // 'task_worker_num' => 1,
+    'heartbeat_idle_time' => 600,
+    'heartbeat_check_interval' => 180,
 ]);

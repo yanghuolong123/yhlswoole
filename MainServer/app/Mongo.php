@@ -11,9 +11,9 @@ class Mongo {
         $this->db = $mongo->selectDB('im_service');
     }
 
-    public function login($client_id, $info) {
-        $this->db->selectCollection('im_online')->update(['client_id' => $client_id], [
-            'client_id' => $client_id,
+    public function login($uid, $info) {
+        $this->db->selectCollection('im_online')->update(['uid' => $uid], [
+            'uid' => $uid,
             'info' => $info,
             'createtime' => time(),
             'createdatetime' => date('Y-m-d H:i:s'),
@@ -22,9 +22,9 @@ class Mongo {
 
     public function getOnlineUsers() {
         $users = [];
-        $onlineusers = iterator_to_array($this->db->selectCollection('im_online')->find(array(), array('client_id' => TRUE)), false);
+        $onlineusers = iterator_to_array($this->db->selectCollection('im_online')->find(array(), array('info.client_id' => TRUE)), false);
         foreach ($onlineusers as $online) {
-            $users[] = $online['client_id'];
+            $users[] = $online['info']['client_id'];
         }
         
         return $users;

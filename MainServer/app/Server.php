@@ -16,6 +16,17 @@ class Server extends Swoole\Protocol\WebSocket {
         parent::__construct($config);
     }
 
+    public function onConnect($serv, $fd, $from_id) {
+        echo date('Y-m-d H:i：s') . " {$fd} begin connect from {$from_id}\n";
+    }
+
+    public function onClose($ser, $fd, $from_id) {
+        if (isset($this->users[$fd])) {
+            unset($this->users[$fd]);
+        }
+        echo "Client {$fd} close connection\n";
+    }
+
     public function getStore($store) {
         $this->store = $store;
     }
@@ -62,9 +73,10 @@ class Server extends Swoole\Protocol\WebSocket {
             'fd' => $client_id,
             'name' => $msg['name'],
             'avatar' => $msg['avatar'],
+            'uid' => $msg['uid'],
         ];
 
-        $this->store->login($client_id, $resMsg);
+        $this->store->login($msg['uid'], $resMsg);
         $this->sendJson($client_id, $resMsg);
 
         $resMsg['cmd'] = 'newUser';
