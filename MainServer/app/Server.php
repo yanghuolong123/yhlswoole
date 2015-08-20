@@ -24,6 +24,7 @@ class Server extends Swoole\Protocol\WebSocket {
         if (isset($this->users[$fd])) {
             unset($this->users[$fd]);
         }
+        $this->cmd_logout($fd);
         echo "Client {$fd} close connection\n";
     }
 
@@ -66,7 +67,7 @@ class Server extends Swoole\Protocol\WebSocket {
      * @param type $msg
      */
     public function cmd_login($client_id, $msg) {
-        $this->users[$client_id] = $client_id;
+        $this->users[$client_id][] = $client_id;
 
         $resMsg = [
             'cmd' => 'login',
@@ -89,6 +90,19 @@ class Server extends Swoole\Protocol\WebSocket {
             'data' => $msg['name'] . '上线了',
         ];
         $this->broadcastJson($client_id, $loginMsg);
+    }
+
+    public function cmd_logout($client_id) {
+        $user = $this->store->getUserByFd($client_id);
+
+        $logoutMsg = [
+            'cmd' => 'fromMsg',
+            'from' => 0,
+            'channal' => 0,
+            'data' => $user['name'] . '下线了',
+        ];
+        $this->broadcastJson($client_id, $logoutMsg);
+        $this->store->logout($user['uid']);
     }
 
     public function cmd_getonline($client_id, $msg) {

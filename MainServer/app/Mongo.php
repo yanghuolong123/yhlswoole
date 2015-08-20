@@ -20,13 +20,17 @@ class Mongo {
                 ], ['upsert' => true]);
     }
 
+    public function logout($uid) {
+        $this->db->selectCollection('im_online')->remove(array('uid' => $uid));
+    }
+
     public function getOnlineUsers() {
         $users = [];
         $onlineusers = iterator_to_array($this->db->selectCollection('im_online')->find(array(), array('uid' => TRUE)), false);
         foreach ($onlineusers as $online) {
             $users[] = $online['uid'];
         }
-        
+
         return $users;
     }
 
@@ -36,13 +40,19 @@ class Mongo {
         foreach ($users as $user) {
             $ret[] = $user['info'];
         }
-        
+
         return $ret;
     }
-    
+
     public function getUser($userid) {
-        $user = $this->db->selectCollection('im_online')->findOne(array('uid'=>$userid));
-        
+        $user = $this->db->selectCollection('im_online')->findOne(array('uid' => $userid));
+
+        return $user['info'];
+    }
+
+    public function getUserByFd($fd) {
+        $user = $this->db->selectCollection('im_online')->findOne(array('info.fd' => $fd));
+
         return $user['info'];
     }
 
@@ -51,7 +61,7 @@ class Mongo {
     }
 
     public function getHistory() {
-        $historys = iterator_to_array($this->db->selectCollection('im_history')->find(array('msg.channal' => 0))->sort(array('time' => -1))->limit(100), false);       
+        $historys = iterator_to_array($this->db->selectCollection('im_history')->find(array('msg.channal' => 0))->sort(array('time' => -1))->limit(100), false);
         foreach ($historys as &$history) {
             unset($history['_id']);
         }
