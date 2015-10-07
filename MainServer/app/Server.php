@@ -67,7 +67,7 @@ class Server extends Swoole\Protocol\WebSocket {
      * @param type $msg
      */
     public function cmd_login($client_id, $msg) {
-        $this->users[$client_id][] = $client_id;
+        $this->users[$client_id] = $client_id;
 
         $resMsg = [
             'cmd' => 'login',
