@@ -103,6 +103,8 @@ class Server extends Swoole\Protocol\WebSocket {
         ];
         $this->broadcastJson($client_id, $logoutMsg);
         $this->store->logout($user['uid']);
+        $logoutMsg['cmd'] = 'logout';
+        $this->broadcastJson($client_id, $logoutMsg);
     }
 
     public function cmd_getonline($client_id, $msg) {
