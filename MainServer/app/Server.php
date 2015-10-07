@@ -24,7 +24,7 @@ class Server extends Swoole\Protocol\WebSocket {
         if (isset($this->users[$fd])) {
             unset($this->users[$fd]);
         }
-        //$this->cmd_logout($fd);
+        $this->cmd_logout($fd);
         echo "Client {$fd} close connection\n";
     }
 
